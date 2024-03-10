@@ -1,1 +1,1 @@
-
+En este trabajo decidí explorar los datos de los vuelos informados por la Administración Nacional de Aviación Civil - ANAC desde 01.01.2021 hasta el 30.06.2022. En él se encuentran analizados los datos de la totalidad de los vuelos y luego una exposición de datos sobre vuelos domésticos y vuelos internacionales. Por último, realicé una comparación de los vuelos en los cuatrimestres de la pandemia cuando aún no había vacunas y cuando la población ya recibió la inoculación suficiente para viajar. Los datos del espacio aéreo en Argentina son suministrados por la ANAC.
