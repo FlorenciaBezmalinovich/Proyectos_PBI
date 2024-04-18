@@ -1,6 +1,6 @@
 # Proyectos y Prácticas de Visualización de Datos📈
 
-¡Bienvenido/a a la carpeta de proyectos y prácticas de visualización de datos con Power BI!
+¡Bienvenido/a a la carpeta de proyectos y prácticas de visualización de datos!
 
 En esta carpeta encontrarás una colección de proyectos y prácticas relacionadas con la visualización de datos utilizando Power BI. Estos proyectos pueden incluir análisis de datos, creación de paneles interactivos, generación de informes y más.
 
