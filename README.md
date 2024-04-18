@@ -1,4 +1,4 @@
-# Proyectos y Prácticas de Visualización de Datos con Power BI 📈
+# Proyectos y Prácticas de Visualización de Datos📈
 
 ¡Bienvenido/a a la carpeta de proyectos y prácticas de visualización de datos con Power BI!
 
