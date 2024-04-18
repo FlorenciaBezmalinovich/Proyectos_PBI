@@ -1,0 +1,1645 @@
+Fecha,País,Marca,Cliente, Ingresos , Gastos 
+01/01/2020,Chile,NexTec,Instituciones educativas,4613.76,3456
+01/01/2020,Chile,Innovatech,Consumidores finales,33615,14566.5
+01/01/2020,Chile,Cybernova,Sector público,115952.32,86274.05
+01/01/2020,México,NeuroNet,Pequeñas y medianas empresas,132046.2,111150
+01/01/2020,Uruguay,NeuroNet,Grandes clientes,19914.88,15398.1
+01/03/2020,México,Cybernova,Sector público,598878,453960
+01/03/2020,Argentina,Innovatech,Pequeñas y medianas empresas,667715.4,562050
+01/04/2020,Perú,NexTec,Sector público,45046.8,23220
+01/04/2020,Uruguay,Cybernova,Sector público,125697.31,67579.2
+01/05/2020,Argentina,OmegaTech,Consumidores finales,193895.31,179245.44
+01/05/2020,Uruguay,NexTec,Grandes clientes,23523.05,18970.2
+01/07/2020,México,Innovatech,Consumidores finales,249243.75,227880
+01/07/2020,México,Innovatech,Grandes clientes,4590,4050
+01/08/2020,Perú,Cybernova,Consumidores finales,214808.37,184248
+01/09/2020,México,NeuroNet,Pequeñas y medianas empresas,418586.45,352345.5
+01/10/2020,México,NexTec,Consumidores finales,314921.25,304668
+01/10/2020,Uruguay,Innovatech,Sector público,16599.24,8469
+01/11/2020,Argentina,NexTec,Consumidores finales,853357.59,788881.68
+01/11/2020,Uruguay,Innovatech,Pequeñas y medianas empresas,1883912.9,1688094
+1/13/2020,Uruguay,NeuroNet,Consumidores finales,39440.77,17091
+1/14/2020,México,Innovatech,Instituciones educativas,112706.1,75137.4
+1/14/2020,Perú,NexTec,Sector público,26631.36,13315.68
+1/15/2020,México,NeuroNet,Grandes clientes,68646.29,53077.03
+1/16/2020,Chile,Cybernova,Sector público,29326.35,22524.08
+1/17/2020,Chile,NeuroNet,Consumidores finales,113345.48,96228
+1/17/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,325306.8,297900
+1/18/2020,Argentina,NexTec,Instituciones educativas,30270.24,22932
+1/19/2020,Argentina,OmegaTech,Grandes clientes,37634.51,33206.92
+1/20/2020,Perú,NeuroNet,Instituciones educativas,49630.32,33086.88
+1/20/2020,Perú,Cybernova,Consumidores finales,549917.31,354042
+1/20/2020,Chile,NexTec,Grandes clientes,147622.54,119050.44
+1/21/2020,Perú,Innovatech,Consumidores finales,271753.38,265998.6
+1/21/2020,Perú,Innovatech,Grandes clientes,17444.7,14377.5
+1/22/2020,Perú,Cybernova,Instituciones educativas,12163,9009.63
+1/23/2020,México,NeuroNet,Grandes clientes,3852.36,3321
+1/24/2020,México,OmegaTech,Sector público,55172.72,30995.91
+1/24/2020,Argentina,Cybernova,Grandes clientes,48100.38,38377.96
+1/24/2020,México,Innovatech,Grandes clientes,42070.3,33927.66
+1/26/2020,Argentina,NeuroNet,Pequeñas y medianas empresas,590733,579150
+1/27/2020,Argentina,NexTec,Sector público,92277.21,53649.54
+1/28/2020,Perú,Innovatech,Sector público,401126.99,342505.8
+1/28/2020,México,Innovatech,Sector público,118571.07,68936.67
+1/29/2020,Chile,OmegaTech,Sector público,721299.6,615888
+1/29/2020,Uruguay,Cybernova,Pequeñas y medianas empresas,547649.1,490725
+1/30/2020,Argentina,NexTec,Consumidores finales,311139.07,301008.96
+1/30/2020,Chile,NexTec,Sector público,2784216.46,2377327.68
+1/31/2020,Argentina,Cybernova,Instituciones educativas,16854.08,11236.05
+1/31/2020,Argentina,NexTec,Instituciones educativas,99493.07,76239.9
+1/31/2020,Perú,OmegaTech,Instituciones educativas,72371.63,56102.04
+1/31/2020,Chile,NexTec,Sector público,67229.73,34654.5
+1/31/2020,Uruguay,Cybernova,Sector público,14776.78,12132
+02/01/2020,Uruguay,Innovatech,Sector público,8308.57,6313.5
+02/01/2020,Argentina,OmegaTech,Sector público,821303.85,670452.12
+02/03/2020,Perú,NeuroNet,Consumidores finales,99069.23,85860
+02/03/2020,Argentina,NeuroNet,Grandes clientes,14346.88,11092.95
+02/05/2020,Argentina,NeuroNet,Sector público,81841.97,43074.72
+02/05/2020,Perú,NexTec,Sector público,599248.44,483865.2
+02/06/2020,Chile,Innovatech,Instituciones educativas,59847.12,39898.08
+02/08/2020,Chile,NexTec,Consumidores finales,309099.32,292239.36
+02/08/2020,Argentina,NexTec,Sector público,1043280,807300
+02/08/2020,Uruguay,NeuroNet,Sector público,617678.27,498746.43
+02/08/2020,México,NeuroNet,Pequeñas y medianas empresas,611914.5,586125
+02/08/2020,Chile,NeuroNet,Grandes clientes,24942.06,19691.1
+02/09/2020,Uruguay,Cybernova,Instituciones educativas,42725.08,32739.53
+02/09/2020,México,NexTec,Grandes clientes,12046.71,9219.42
+02/10/2020,Perú,NexTec,Sector público,22620.96,12294
+02/11/2020,Argentina,NeuroNet,Instituciones educativas,14612.4,9741.6
+02/11/2020,Perú,NexTec,Sector público,1198127.7,988930.8
+02/12/2020,México,NexTec,Instituciones educativas,29590.11,19926
+02/12/2020,Uruguay,Cybernova,Grandes clientes,21955.75,18095.4
+2/13/2020,Uruguay,OmegaTech,Consumidores finales,730620,607875.84
+2/13/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,289564.85,262287
+2/14/2020,Uruguay,Cybernova,Consumidores finales,224120.77,188352
+2/14/2020,Argentina,NexTec,Sector público,15864.97,13025.43
+2/15/2020,Argentina,OmegaTech,Sector público,85249.89,43494.84
+2/15/2020,Uruguay,Cybernova,Grandes clientes,25468.67,20990.66
+2/16/2020,México,Cybernova,Sector público,1828.81,1319.49
+2/16/2020,Uruguay,Cybernova,Sector público,53048.63,43553.88
+2/16/2020,Argentina,OmegaTech,Grandes clientes,21266.39,16110.9
+2/17/2020,Chile,NexTec,Sector público,3038.73,2359.26
+2/17/2020,Uruguay,Cybernova,Sector público,116626.44,66265.02
+2/17/2020,Uruguay,Cybernova,Pequeñas y medianas empresas,431040.77,386237.25
+2/20/2020,Perú,NexTec,Instituciones educativas,3227.58,2502
+2/20/2020,México,NeuroNet,Sector público,94639.64,54390.6
+2/20/2020,México,Innovatech,Pequeñas y medianas empresas,185992.2,180225
+2/20/2020,Uruguay,NexTec,Grandes clientes,124228.74,94112.69
+2/21/2020,Argentina,NexTec,Pequeñas y medianas empresas,254191.5,222975
+2/24/2020,Perú,NeuroNet,Instituciones educativas,14111.6,9902.88
+2/24/2020,Chile,NexTec,Instituciones educativas,12503.29,9365.76
+2/24/2020,Perú,Cybernova,Grandes clientes,8190.07,6204.6
+2/25/2020,México,OmegaTech,Consumidores finales,502678.21,326898
+2/26/2020,Argentina,Innovatech,Sector público,15937.74,8757
+2/28/2020,Chile,NexTec,Pequeñas y medianas empresas,765021.35,685503
+2/28/2020,Argentina,OmegaTech,Grandes clientes,9849.6,7387.2
+03/02/2020,Uruguay,NexTec,Sector público,118913.76,63252
+03/03/2020,Chile,NexTec,Sector público,1153115.55,941318.82
+03/04/2020,México,Cybernova,Consumidores finales,84214.04,71496
+03/05/2020,Chile,NexTec,Instituciones educativas,43015.05,33345
+03/06/2020,Chile,Innovatech,Grandes clientes,83555.22,66666.4
+03/08/2020,Perú,Cybernova,Sector público,15110.55,11992.5
+03/10/2020,Perú,Innovatech,Sector público,47050.11,25295.76
+03/11/2020,México,NeuroNet,Sector público,8871.16,6741
+03/12/2020,México,Cybernova,Instituciones educativas,35794.58,25119
+03/12/2020,México,Cybernova,Sector público,2629074.42,1992884.4
+03/12/2020,Chile,Innovatech,Pequeñas y medianas empresas,206193.6,199800
+03/12/2020,México,NexTec,Pequeñas y medianas empresas,125307,122850
+3/13/2020,Chile,OmegaTech,Sector público,15157.3,12303
+3/14/2020,Chile,OmegaTech,Consumidores finales,44783.65,37260
+3/16/2020,Chile,Cybernova,Consumidores finales,409388.91,391507.56
+3/17/2020,Chile,NeuroNet,Sector público,635040,524160
+3/18/2020,Perú,NexTec,Consumidores finales,99517.07,87156
+3/18/2020,Argentina,NexTec,Pequeñas y medianas empresas,776506.5,653625
+3/18/2020,Uruguay,Cybernova,Pequeñas y medianas empresas,605254.68,560421
+3/19/2020,Perú,Cybernova,Sector público,6253.56,4908.6
+3/20/2020,Argentina,Cybernova,Consumidores finales,400033.95,354072.6
+3/21/2020,Uruguay,Cybernova,Consumidores finales,1757892.32,1507800.42
+3/22/2020,Argentina,NexTec,Instituciones educativas,8042.76,6093
+3/22/2020,Argentina,OmegaTech,Consumidores finales,93426.49,78516
+3/22/2020,Uruguay,Cybernova,Grandes clientes,68963.4,60142.5
+3/23/2020,Perú,OmegaTech,Instituciones educativas,103661.98,71245.35
+3/23/2020,Chile,OmegaTech,Sector público,172695.6,145782
+3/24/2020,Chile,OmegaTech,Sector público,367479,287352
+3/26/2020,Argentina,OmegaTech,Grandes clientes,18715.32,16321.5
+3/31/2020,Argentina,NeuroNet,Sector público,655735.5,541242
+3/31/2020,Perú,NeuroNet,Sector público,1517.04,1260
+3/31/2020,Argentina,NeuroNet,Sector público,119750.4,101088
+3/31/2020,Argentina,NexTec,Pequeñas y medianas empresas,618178.18,559944
+04/01/2020,Argentina,NexTec,Sector público,12718.08,6624
+04/01/2020,México,Cybernova,Sector público,16093.67,12100.5
+04/01/2020,Uruguay,NeuroNet,Grandes clientes,13145.54,10834.24
+04/02/2020,Perú,NeuroNet,Instituciones educativas,27137.7,19044
+04/02/2020,Perú,Cybernova,Sector público,2063.88,1620
+04/03/2020,Chile,NexTec,Sector público,1489.57,1156.5
+04/03/2020,Chile,OmegaTech,Sector público,19559.34,11241
+04/03/2020,Uruguay,Cybernova,Grandes clientes,73205.66,61690.17
+04/04/2020,Uruguay,Cybernova,Sector público,442965.6,350064
+04/05/2020,Perú,NexTec,Sector público,22620.96,12294
+04/06/2020,Argentina,Cybernova,Grandes clientes,14581.56,11391.84
+04/07/2020,Chile,OmegaTech,Consumidores finales,223370.48,191592
+04/07/2020,Chile,Cybernova,Pequeñas y medianas empresas,932062.95,853537.5
+04/07/2020,Chile,OmegaTech,Pequeñas y medianas empresas,675638.06,611991
+04/08/2020,Argentina,NexTec,Instituciones educativas,8696.16,6039
+04/08/2020,Chile,NeuroNet,Grandes clientes,18922.9,15260.4
+04/10/2020,México,Cybernova,Pequeñas y medianas empresas,318622.68,288607.5
+04/10/2020,Chile,OmegaTech,Grandes clientes,95528.09,75416.91
+04/11/2020,Chile,NexTec,Sector público,165186,129168
+04/12/2020,Argentina,Cybernova,Instituciones educativas,8696.16,6039
+4/13/2020,Argentina,OmegaTech,Consumidores finales,234934.27,217183.68
+4/15/2020,México,Innovatech,Sector público,9596.16,4896
+4/16/2020,Argentina,NeuroNet,Instituciones educativas,97032.13,66008.25
+4/16/2020,México,OmegaTech,Sector público,30701.16,16506
+4/17/2020,Uruguay,Cybernova,Sector público,672036.75,504270
+4/18/2020,Uruguay,NexTec,Sector público,30513.62,22942.58
+4/19/2020,Perú,NexTec,Sector público,30990.72,16842.78
+4/19/2020,Argentina,Innovatech,Pequeñas y medianas empresas,2003146.2,1686150
+4/20/2020,Chile,Innovatech,Instituciones educativas,29364.53,23031
+4/20/2020,Chile,Innovatech,Sector público,23751.9,12501
+4/21/2020,Uruguay,NeuroNet,Pequeñas y medianas empresas,242902.8,206550
+4/22/2020,Argentina,NexTec,Sector público,7114.34,5841
+4/24/2020,Chile,Innovatech,Instituciones educativas,25492.32,17703
+4/24/2020,Perú,Cybernova,Consumidores finales,241328.21,225601.2
+4/26/2020,Uruguay,Cybernova,Instituciones educativas,15826.83,11345.4
+4/26/2020,Uruguay,Cybernova,Grandes clientes,19914.88,15398.1
+4/27/2020,Argentina,Cybernova,Instituciones educativas,20234.61,13626
+4/27/2020,Uruguay,NeuroNet,Instituciones educativas,46029.06,34870.5
+4/28/2020,Uruguay,Innovatech,Consumidores finales,282005.91,263628
+4/29/2020,Argentina,NeuroNet,Consumidores finales,937440,779950.08
+4/29/2020,Uruguay,NeuroNet,Sector público,43931.16,24138
+4/29/2020,Chile,Innovatech,Sector público,119153.97,59576.99
+4/29/2020,Perú,OmegaTech,Sector público,23988.6,18624.69
+4/29/2020,Argentina,NeuroNet,Grandes clientes,11143.2,9286
+4/30/2020,México,Cybernova,Consumidores finales,69897.65,59341.68
+05/02/2020,México,NexTec,Grandes clientes,11473.06,8780.4
+05/03/2020,Chile,NexTec,Consumidores finales,349462.43,290752.74
+05/03/2020,Perú,NexTec,Sector público,17717.4,10422
+05/03/2020,Perú,Cybernova,Pequeñas y medianas empresas,1010671.99,957075.75
+05/03/2020,Argentina,Cybernova,Grandes clientes,27643.9,22056.3
+05/03/2020,Uruguay,OmegaTech,Grandes clientes,74058.36,56677.32
+05/04/2020,México,NeuroNet,Consumidores finales,246281.54,232848
+05/05/2020,México,NexTec,Instituciones educativas,2618.55,1918.35
+05/05/2020,Chile,NexTec,Consumidores finales,116162.31,102816
+05/05/2020,Uruguay,Cybernova,Sector público,47684.17,35852.76
+05/05/2020,México,Cybernova,Sector público,734718.6,620217
+05/06/2020,Perú,OmegaTech,Instituciones educativas,79627.21,56473.2
+05/06/2020,Perú,OmegaTech,Consumidores finales,1131233.27,1012028.04
+05/06/2020,Uruguay,NexTec,Sector público,68856.48,34776
+05/07/2020,Perú,NeuroNet,Pequeñas y medianas empresas,320625,281250
+05/07/2020,Uruguay,Innovatech,Pequeñas y medianas empresas,547649.1,490725
+05/08/2020,México,OmegaTech,Instituciones educativas,34218.29,23762.7
+05/08/2020,Perú,Innovatech,Sector público,13962.56,10840.5
+05/08/2020,México,NeuroNet,Pequeñas y medianas empresas,132046.2,111150
+05/08/2020,Chile,OmegaTech,Pequeñas y medianas empresas,318697.2,288675
+05/08/2020,México,NeuroNet,Grandes clientes,7302.96,5589
+05/09/2020,Argentina,NexTec,Grandes clientes,2026.04,1688.36
+05/10/2020,Argentina,Innovatech,Instituciones educativas,74674.13,57886.92
+05/11/2020,Perú,Cybernova,Grandes clientes,16686,12514.5
+05/11/2020,Uruguay,Innovatech,Grandes clientes,46674.38,35720.19
+05/12/2020,México,Cybernova,Sector público,19530.72,11097
+05/12/2020,Uruguay,Innovatech,Grandes clientes,8978.69,7014.6
+5/13/2020,México,Innovatech,Sector público,27165.6,15435
+5/14/2020,Argentina,NexTec,Consumidores finales,317488.85,307152
+5/15/2020,Argentina,NeuroNet,Pequeñas y medianas empresas,234522,227250
+5/16/2020,Uruguay,NexTec,Sector público,14884.7,11191.5
+5/17/2020,Argentina,Cybernova,Sector público,27624.24,14094
+5/18/2020,Uruguay,Cybernova,Sector público,19590.27,11523.69
+5/18/2020,Perú,NexTec,Grandes clientes,30650.4,22987.8
+5/19/2020,Chile,OmegaTech,Instituciones educativas,18959.13,14697
+5/19/2020,Uruguay,NeuroNet,Consumidores finales,294111.78,257580
+5/19/2020,México,NexTec,Pequeñas y medianas empresas,446387.22,404336.25
+5/20/2020,México,OmegaTech,Sector público,3434.93,2696.18
+5/22/2020,Uruguay,NeuroNet,Sector público,804334.86,663895.44
+5/23/2020,Perú,Innovatech,Pequeñas y medianas empresas,281985.3,252675
+5/24/2020,Perú,NeuroNet,Sector público,12450.38,9562.5
+5/24/2020,Uruguay,Cybernova,Sector público,467410.61,361686.78
+5/24/2020,México,Innovatech,Grandes clientes,27050.76,22052.25
+5/25/2020,Perú,Innovatech,Grandes clientes,29074.76,22026.33
+5/26/2020,Argentina,Cybernova,Sector público,180148.5,140868
+5/26/2020,Argentina,NexTec,Grandes clientes,3751.92,3126.6
+5/26/2020,Uruguay,OmegaTech,Grandes clientes,26023.46,20544.84
+5/27/2020,México,NeuroNet,Sector público,501713.1,384228
+5/29/2020,Uruguay,Cybernova,Sector público,29728.44,15813
+5/30/2020,México,Innovatech,Grandes clientes,13662,11137.5
+5/31/2020,Uruguay,Cybernova,Instituciones educativas,7411.5,4941
+5/31/2020,Argentina,OmegaTech,Grandes clientes,54829.43,41537.45
+5/31/2020,Perú,NexTec,Grandes clientes,4083.18,3440.88
+06/01/2020,Uruguay,NeuroNet,Sector público,44936.1,25245
+06/02/2020,Argentina,Innovatech,Instituciones educativas,150747.08,115515
+06/02/2020,México,OmegaTech,Sector público,958797,749736
+06/02/2020,Perú,Cybernova,Pequeñas y medianas empresas,180449.1,155025
+06/03/2020,Perú,Innovatech,Instituciones educativas,20398.73,14781.69
+06/03/2020,Argentina,Innovatech,Sector público,3206.76,2411.1
+06/04/2020,Uruguay,OmegaTech,Instituciones educativas,114545.34,84848.4
+06/04/2020,México,NexTec,Sector público,14335.2,8145
+06/05/2020,Chile,Cybernova,Sector público,36142.42,26076.78
+06/08/2020,Uruguay,NeuroNet,Consumidores finales,282005.91,263628
+06/09/2020,México,OmegaTech,Sector público,11279.02,8757
+06/09/2020,Uruguay,NexTec,Sector público,40997.59,21577.68
+06/09/2020,México,NexTec,Pequeñas y medianas empresas,157734,142875
+06/10/2020,Argentina,Cybernova,Grandes clientes,30757.71,25349.76
+06/11/2020,México,OmegaTech,Pequeñas y medianas empresas,1471537.94,1290822.75
+06/12/2020,México,Cybernova,Sector público,2492773.92,1928932.2
+06/12/2020,Chile,OmegaTech,Grandes clientes,24942.06,19691.1
+06/12/2020,México,Cybernova,Grandes clientes,3852.36,3321
+6/13/2020,Uruguay,Cybernova,Instituciones educativas,15267.69,10178.46
+6/14/2020,Chile,NexTec,Instituciones educativas,28676.7,22230
+6/14/2020,Chile,NeuroNet,Consumidores finales,6064.62,2628
+6/15/2020,Chile,Cybernova,Consumidores finales,198586.3,177660
+6/16/2020,México,NexTec,Sector público,51410.62,37857.6
+6/16/2020,Uruguay,NeuroNet,Grandes clientes,19331.68,15932.7
+6/18/2020,Perú,Innovatech,Grandes clientes,48670.71,40113.23
+6/19/2020,Argentina,NexTec,Grandes clientes,12086.93,9250.2
+6/21/2020,Chile,NexTec,Sector público,9268.94,7119
+6/21/2020,México,OmegaTech,Sector público,331808.4,280098
+6/21/2020,Argentina,Cybernova,Sector público,16232.33,13482
+6/21/2020,Perú,NexTec,Pequeñas y medianas empresas,481852.8,418275
+6/22/2020,Uruguay,NeuroNet,Pequeñas y medianas empresas,430680.89,390109.5
+6/23/2020,Chile,Cybernova,Sector público,2102.18,1746
+6/24/2020,Perú,OmegaTech,Sector público,24251.04,13779
+6/26/2020,Argentina,Innovatech,Sector público,30639.61,23037.3
+6/28/2020,Uruguay,Innovatech,Instituciones educativas,84489.78,61224.48
+6/28/2020,Perú,Innovatech,Sector público,6346.62,4927.5
+6/28/2020,Chile,NeuroNet,Sector público,138299.81,114152.22
+6/29/2020,Perú,NexTec,Consumidores finales,156170.47,133952.4
+6/29/2020,Argentina,Cybernova,Pequeñas y medianas empresas,2224376.15,2155403.25
+6/29/2020,Chile,NexTec,Grandes clientes,13706.28,10489.5
+6/30/2020,Argentina,OmegaTech,Pequeñas y medianas empresas,557442,516150
+07/01/2020,México,NeuroNet,Grandes clientes,25290.14,21554.1
+07/02/2020,México,NexTec,Sector público,10755.36,7920
+07/03/2020,Chile,NeuroNet,Consumidores finales,94454.57,80190
+07/03/2020,Perú,OmegaTech,Consumidores finales,665556.62,651462.48
+07/03/2020,Argentina,NeuroNet,Grandes clientes,20396.77,15770.7
+07/04/2020,Uruguay,NexTec,Sector público,113056.48,59503.41
+07/05/2020,México,Cybernova,Grandes clientes,19465.88,16780.93
+07/06/2020,Argentina,NexTec,Consumidores finales,402527.16,372114
+07/06/2020,Argentina,NeuroNet,Sector público,114655.94,61642.98
+07/07/2020,Chile,Innovatech,Instituciones educativas,76054.12,59650.29
+07/07/2020,México,OmegaTech,Sector público,2986.89,2344.5
+07/08/2020,Perú,NexTec,Consumidores finales,60905.77,59616
+07/08/2020,Perú,OmegaTech,Sector público,6936.62,5215.5
+07/08/2020,México,OmegaTech,Sector público,1906437.71,1539359.64
+07/08/2020,Perú,Cybernova,Pequeñas y medianas empresas,263557.8,221850
+07/09/2020,Uruguay,Cybernova,Sector público,2557166.98,2020861.44
+07/09/2020,Argentina,NeuroNet,Grandes clientes,3751.92,3126.6
+07/10/2020,México,OmegaTech,Instituciones educativas,32284.98,23652
+07/10/2020,Perú,Cybernova,Consumidores finales,1079959.81,916863.84
+07/10/2020,Uruguay,NeuroNet,Consumidores finales,28282.4,12379.5
+07/10/2020,Chile,Cybernova,Sector público,27588.56,20527.2
+07/11/2020,Argentina,NeuroNet,Pequeñas y medianas empresas,292832.82,262395
+07/12/2020,México,NeuroNet,Consumidores finales,774947.25,657914.4
+07/12/2020,Uruguay,Innovatech,Sector público,71210.74,36332.01
+07/12/2020,Perú,NexTec,Pequeñas y medianas empresas,2192430.24,1903151.25
+7/13/2020,Perú,OmegaTech,Sector público,5309.71,2949.84
+7/14/2020,Argentina,Cybernova,Sector público,27624.24,14094
+7/15/2020,Uruguay,NexTec,Consumidores finales,101137.07,84996
+7/15/2020,Argentina,NexTec,Consumidores finales,18200.05,11380.5
+7/15/2020,México,NeuroNet,Pequeñas y medianas empresas,899974.8,749979
+7/15/2020,México,NexTec,Pequeñas y medianas empresas,208009.62,203931
+7/16/2020,Chile,Innovatech,Instituciones educativas,84114.45,65205
+7/16/2020,Chile,Cybernova,Instituciones educativas,43710.26,33883.92
+7/16/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,95882.4,86850
+7/17/2020,Argentina,NexTec,Instituciones educativas,31654.02,21981.96
+7/17/2020,Uruguay,Cybernova,Sector público,658324.8,509418
+7/18/2020,Argentina,OmegaTech,Consumidores finales,186455.77,172368
+7/18/2020,México,NeuroNet,Consumidores finales,10852.96,6718.5
+7/19/2020,Chile,NeuroNet,Instituciones educativas,64486.75,46227.06
+7/21/2020,Uruguay,Cybernova,Instituciones educativas,63804.51,42536.34
+7/21/2020,Perú,NeuroNet,Sector público,222037.2,185328
+7/24/2020,Uruguay,Innovatech,Grandes clientes,33490.51,26164.46
+7/25/2020,Chile,Innovatech,Consumidores finales,347160.29,294732
+7/25/2020,Chile,NeuroNet,Consumidores finales,220622.74,185412.24
+7/25/2020,Perú,Cybernova,Consumidores finales,263373.32,257796
+7/25/2020,Perú,Cybernova,Sector público,10867.1,6245.46
+7/25/2020,México,Cybernova,Grandes clientes,15900.33,12552.89
+7/27/2020,Argentina,Innovatech,Pequeñas y medianas empresas,756345.6,656550
+7/28/2020,Uruguay,NexTec,Consumidores finales,162050.63,138996
+7/29/2020,Uruguay,NexTec,Sector público,490549.5,418860
+7/29/2020,Chile,Cybernova,Grandes clientes,29665.03,25282.69
+7/30/2020,Perú,Cybernova,Sector público,432306,341640
+08/01/2020,Uruguay,OmegaTech,Sector público,1587.47,1318.5
+08/02/2020,México,OmegaTech,Grandes clientes,5705.42,4552.2
+08/02/2020,Chile,OmegaTech,Grandes clientes,64814.14,55239.33
+08/04/2020,Chile,Cybernova,Sector público,84031.79,45178.38
+08/05/2020,Uruguay,Cybernova,Instituciones educativas,26378.06,18909
+08/05/2020,Uruguay,Cybernova,Sector público,664448.4,525096
+08/06/2020,México,NexTec,Consumidores finales,106703.49,97557.48
+08/06/2020,México,Cybernova,Sector público,386694,326430
+08/06/2020,México,Cybernova,Sector público,63409.04,47675.97
+08/06/2020,México,NeuroNet,Grandes clientes,6853.06,5648.13
+08/07/2020,Argentina,OmegaTech,Consumidores finales,269000.48,263304
+08/08/2020,Uruguay,Cybernova,Instituciones educativas,22459.81,16454.07
+08/08/2020,Uruguay,NexTec,Pequeñas y medianas empresas,195230.57,173076.75
+08/09/2020,Argentina,Innovatech,Sector público,52862.5,28729.62
+08/09/2020,Uruguay,OmegaTech,Grandes clientes,19134.9,15106.5
+08/11/2020,México,NexTec,Sector público,17002.44,9342
+08/11/2020,México,OmegaTech,Sector público,1180623.56,885893.58
+08/11/2020,México,OmegaTech,Sector público,25343.96,14238.18
+08/12/2020,México,NexTec,Consumidores finales,1442339.33,1395379.44
+08/12/2020,Uruguay,Cybernova,Pequeñas y medianas empresas,75950.78,69552
+08/12/2020,Uruguay,Cybernova,Grandes clientes,96985.45,74988.75
+8/13/2020,Chile,OmegaTech,Sector público,52274.79,37716.3
+8/14/2020,Argentina,NeuroNet,Grandes clientes,101454.44,76090.83
+8/15/2020,Uruguay,NeuroNet,Instituciones educativas,137166.6,103914.09
+8/15/2020,Perú,OmegaTech,Instituciones educativas,14966.27,11738.25
+8/15/2020,Argentina,OmegaTech,Sector público,602741.16,476330.4
+8/16/2020,México,Cybernova,Sector público,15172.54,12177
+8/16/2020,Argentina,Cybernova,Sector público,2943.65,2236.82
+8/17/2020,Perú,NeuroNet,Sector público,60882.33,46760.63
+8/17/2020,Argentina,NeuroNet,Grandes clientes,21092.4,15819.3
+8/18/2020,Uruguay,NexTec,Pequeñas y medianas empresas,309889.8,274725
+8/19/2020,Uruguay,Innovatech,Instituciones educativas,15237.33,10581.48
+8/19/2020,México,NexTec,Consumidores finales,654630.58,555768
+8/20/2020,Chile,Cybernova,Pequeñas y medianas empresas,145535.99,141023.25
+8/21/2020,Chile,Innovatech,Pequeñas y medianas empresas,258556.54,219861
+8/22/2020,Argentina,NeuroNet,Sector público,3411.45,2565
+8/23/2020,México,Cybernova,Pequeñas y medianas empresas,1863745.2,1688175
+8/24/2020,Argentina,NeuroNet,Sector público,17361.68,10212.75
+8/26/2020,Chile,Cybernova,Sector público,2697330.98,2329920.45
+8/28/2020,Perú,Innovatech,Sector público,10839.07,8149.68
+8/29/2020,Uruguay,Cybernova,Instituciones educativas,29403,19602
+8/29/2020,Argentina,Innovatech,Instituciones educativas,10973.68,7782.75
+8/29/2020,Uruguay,Cybernova,Sector público,8266.1,6709.5
+8/29/2020,México,Cybernova,Sector público,41209.82,23414.67
+8/30/2020,Uruguay,NexTec,Consumidores finales,114202.21,110484
+8/30/2020,Chile,Cybernova,Sector público,37585.44,21852
+8/31/2020,Perú,NexTec,Consumidores finales,1306806.49,1169100
+09/02/2020,Perú,OmegaTech,Instituciones educativas,6196.5,4590
+09/02/2020,Argentina,Cybernova,Pequeñas y medianas empresas,1642202.99,1382325.75
+09/05/2020,Uruguay,Cybernova,Consumidores finales,223512.92,187841.16
+09/05/2020,Perú,OmegaTech,Pequeñas y medianas empresas,180449.1,155025
+09/06/2020,Argentina,NeuroNet,Instituciones educativas,134721.35,95547.06
+09/07/2020,Argentina,NexTec,Pequeñas y medianas empresas,571212,553500
+09/08/2020,México,NexTec,Pequeñas y medianas empresas,3043965.02,2787513.75
+09/09/2020,Chile,NeuroNet,Instituciones educativas,31945.32,24201
+09/09/2020,Uruguay,NeuroNet,Instituciones educativas,115847.82,85813.2
+09/09/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,112492.8,100800
+09/10/2020,Argentina,Innovatech,Consumidores finales,106176.2,92988
+09/11/2020,México,OmegaTech,Sector público,215460,168480
+09/11/2020,Perú,NexTec,Sector público,114016.26,61965.36
+09/12/2020,Argentina,Cybernova,Sector público,24023.56,19066.32
+09/12/2020,México,OmegaTech,Grandes clientes,9281.65,8001.42
+9/13/2020,Perú,NexTec,Consumidores finales,119996.83,107352
+9/13/2020,Chile,OmegaTech,Consumidores finales,174809.64,159825.96
+9/13/2020,Argentina,NexTec,Sector público,26981.64,15687
+9/14/2020,Argentina,OmegaTech,Instituciones educativas,7117.88,4995
+9/16/2020,Chile,OmegaTech,Consumidores finales,44783.65,37260
+9/16/2020,Uruguay,NeuroNet,Consumidores finales,1094095.82,958197.6
+9/16/2020,Perú,NexTec,Consumidores finales,1933865.97,1730082.24
+9/17/2020,Perú,Cybernova,Sector público,2063.88,1620
+9/18/2020,Uruguay,Cybernova,Sector público,37528.11,30461.13
+9/18/2020,Perú,Innovatech,Pequeñas y medianas empresas,862875.02,773185.5
+9/19/2020,Perú,Cybernova,Pequeñas y medianas empresas,322898.4,305775
+9/19/2020,Argentina,NexTec,Pequeñas y medianas empresas,3206971.85,2699471.25
+9/20/2020,Chile,NexTec,Sector público,214462.84,110547.86
+9/20/2020,Uruguay,NexTec,Sector público,989759.23,835511.04
+9/22/2020,Argentina,NexTec,Grandes clientes,26228.63,20072.93
+9/23/2020,Argentina,OmegaTech,Consumidores finales,210755.77,194832
+9/23/2020,Perú,NeuroNet,Sector público,13095.56,7440.66
+9/25/2020,Chile,Cybernova,Grandes clientes,27964.39,21185.15
+9/28/2020,Argentina,NeuroNet,Instituciones educativas,25467.75,17325
+9/28/2020,Chile,NeuroNet,Sector público,177404.77,92398.32
+9/29/2020,Perú,NexTec,Consumidores finales,136338.38,119403.72
+9/29/2020,México,Cybernova,Grandes clientes,5675.18,4892.4
+10/01/2020,Argentina,NexTec,Sector público,2130.66,1710
+10/02/2020,Chile,Innovatech,Sector público,7254.63,3739.5
+10/02/2020,Chile,NeuroNet,Sector público,900742.5,778050
+10/02/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,1268696.52,1161810
+10/03/2020,Uruguay,Cybernova,Consumidores finales,223848.56,219108.24
+10/04/2020,Uruguay,Cybernova,Consumidores finales,173137.5,160056
+10/04/2020,Argentina,Cybernova,Sector público,49995.57,41524.56
+10/04/2020,Chile,NeuroNet,Grandes clientes,87593.43,72192.38
+10/05/2020,Chile,NeuroNet,Instituciones educativas,36090.36,25596
+10/05/2020,Uruguay,OmegaTech,Sector público,25695.9,13815
+10/07/2020,Argentina,Cybernova,Instituciones educativas,8302.5,5535
+10/08/2020,Perú,NexTec,Sector público,1758864.24,1361025.9
+10/08/2020,Argentina,Innovatech,Sector público,467375.83,394538.04
+10/08/2020,Uruguay,NexTec,Grandes clientes,92210.35,74363.18
+10/09/2020,Perú,Innovatech,Instituciones educativas,8830.62,6399
+10/12/2020,Chile,NexTec,Instituciones educativas,18380.93,14085
+10/12/2020,Chile,OmegaTech,Consumidores finales,129872.6,108054
+10/12/2020,Perú,Cybernova,Sector público,638637.3,474416.28
+10/12/2020,Argentina,NexTec,Sector público,12459.56,7329.15
+10/12/2020,México,Cybernova,Pequeñas y medianas empresas,157734,142875
+10/12/2020,Argentina,NexTec,Pequeñas y medianas empresas,200707.2,181800
+10/13/2020,Argentina,OmegaTech,Sector público,413459.42,319938.84
+10/13/2020,Chile,Innovatech,Pequeñas y medianas empresas,775287.94,751248
+10/13/2020,Uruguay,Innovatech,Grandes clientes,11166.12,8545.5
+10/14/2020,Uruguay,Cybernova,Sector público,33078.24,17784
+10/15/2020,México,NeuroNet,Instituciones educativas,53696.39,37289.16
+10/15/2020,Argentina,NeuroNet,Sector público,16229.61,12600.63
+10/16/2020,Perú,Cybernova,Consumidores finales,289533.46,245808
+10/16/2020,Perú,NeuroNet,Pequeñas y medianas empresas,588859.2,570600
+10/17/2020,Argentina,NexTec,Consumidores finales,259865.72,218392.2
+10/18/2020,Argentina,Cybernova,Grandes clientes,27065.23,23603.4
+10/19/2020,Argentina,Innovatech,Sector público,273319.2,230724
+10/19/2020,México,OmegaTech,Sector público,28552.08,15350.58
+10/21/2020,México,OmegaTech,Sector público,6849.47,5149.98
+10/21/2020,México,Innovatech,Sector público,29584.25,16255.08
+10/21/2020,Chile,Innovatech,Grandes clientes,27194.4,20395.8
+10/22/2020,Uruguay,NexTec,Instituciones educativas,154034.66,120811.5
+10/22/2020,Argentina,NexTec,Consumidores finales,195112.29,163973.16
+10/22/2020,Uruguay,NeuroNet,Consumidores finales,817817.15,764521.2
+10/23/2020,Uruguay,NeuroNet,Sector público,606617.42,484548.48
+10/23/2020,Perú,NeuroNet,Pequeñas y medianas empresas,92517.39,78671.25
+10/24/2020,Chile,OmegaTech,Consumidores finales,252960.14,216972
+10/24/2020,México,NexTec,Consumidores finales,222325.06,188749.44
+10/24/2020,Chile,OmegaTech,Sector público,47018.7,26415
+10/24/2020,Uruguay,OmegaTech,Pequeñas y medianas empresas,1699625.59,1522962
+10/24/2020,Perú,Innovatech,Grandes clientes,24475.65,20172.24
+10/25/2020,Uruguay,Cybernova,Consumidores finales,152308.61,142382.88
+10/25/2020,Chile,NexTec,Grandes clientes,20637.94,17998.2
+10/28/2020,Argentina,NeuroNet,Consumidores finales,366187.5,304668
+10/28/2020,México,NeuroNet,Consumidores finales,272868.75,231660
+10/28/2020,Chile,NeuroNet,Grandes clientes,64337.85,51885.36
+10/28/2020,Argentina,OmegaTech,Grandes clientes,28072.98,24482.25
+10/29/2020,Perú,OmegaTech,Instituciones educativas,11916.45,8730
+10/30/2020,Perú,Cybernova,Sector público,1517.04,1260
+10/31/2020,México,Cybernova,Consumidores finales,285062.88,257796
+10/31/2020,Perú,NexTec,Consumidores finales,54815.19,53654.4
+10/31/2020,Chile,Cybernova,Pequeñas y medianas empresas,4185548.64,3832920
+11/01/2020,Perú,Cybernova,Grandes clientes,3963.6,2972.7
+11/02/2020,Perú,NeuroNet,Pequeñas y medianas empresas,1593506.25,1397812.5
+11/05/2020,Perú,Innovatech,Sector público,8211.42,6174
+11/05/2020,Perú,NexTec,Sector público,10859.94,5967
+11/06/2020,México,OmegaTech,Sector público,18497.59,14361.48
+11/07/2020,Perú,NexTec,Sector público,1438680.6,1068734.16
+11/07/2020,Chile,Cybernova,Grandes clientes,15449.94,11704.5
+11/08/2020,Chile,NexTec,Consumidores finales,275981.54,260928
+11/08/2020,Perú,Cybernova,Sector público,10360.76,5630.85
+11/08/2020,Argentina,Innovatech,Grandes clientes,8390.52,7403.4
+11/09/2020,Perú,Innovatech,Grandes clientes,104525.8,82520.37
+11/10/2020,Argentina,Innovatech,Instituciones educativas,106099.9,79475.58
+11/13/2020,Argentina,Cybernova,Instituciones educativas,61715.56,41559.3
+11/13/2020,Argentina,NeuroNet,Instituciones educativas,141675.01,101559.15
+11/15/2020,Chile,OmegaTech,Sector público,70022.44,40242.78
+11/16/2020,Chile,Innovatech,Instituciones educativas,91517.43,63553.77
+11/16/2020,Argentina,Cybernova,Consumidores finales,234044.05,216360.72
+11/16/2020,Perú,OmegaTech,Sector público,671806.8,499056.48
+11/16/2020,Perú,Innovatech,Pequeñas y medianas empresas,171005.69,145413
+11/16/2020,Perú,Cybernova,Pequeñas y medianas empresas,382552.09,328653
+11/17/2020,Argentina,OmegaTech,Pequeñas y medianas empresas,344509.2,308700
+11/17/2020,Uruguay,Innovatech,Pequeñas y medianas empresas,474131.39,420329.25
+11/18/2020,México,NeuroNet,Sector público,13416.48,10890
+11/18/2020,Perú,OmegaTech,Sector público,24933.93,19358.64
+11/19/2020,Perú,NexTec,Sector público,530145,437580
+11/19/2020,Chile,Innovatech,Pequeñas y medianas empresas,410605.2,342171
+11/19/2020,México,NexTec,Pequeñas y medianas empresas,1297890,1138500
+11/20/2020,Uruguay,OmegaTech,Consumidores finales,989305.14,904507.56
+11/20/2020,México,Cybernova,Sector público,160091.98,87006.51
+11/21/2020,México,Cybernova,Instituciones educativas,67105.32,46600.92
+11/21/2020,Uruguay,NeuroNet,Grandes clientes,10868.07,9477.97
+11/22/2020,Perú,Innovatech,Sector público,352680.3,261991.08
+11/23/2020,Argentina,Cybernova,Sector público,114148.25,65602.44
+11/23/2020,Perú,NeuroNet,Pequeñas y medianas empresas,638043.75,559687.5
+11/24/2020,Chile,NeuroNet,Instituciones educativas,72902.53,51703.92
+11/25/2020,Chile,Cybernova,Sector público,10094.95,7923.83
+11/25/2020,Perú,NexTec,Grandes clientes,9518.15,8205.3
+11/26/2020,Argentina,NexTec,Sector público,105537.6,81666
+11/26/2020,Perú,NexTec,Sector público,32396.49,23140.35
+11/27/2020,Chile,Innovatech,Sector público,15157.3,12303
+11/27/2020,Chile,Innovatech,Pequeñas y medianas empresas,540270,450225
+11/27/2020,Chile,Cybernova,Pequeñas y medianas empresas,347371.2,336600
+11/28/2020,Argentina,NeuroNet,Pequeñas y medianas empresas,856005.3,829462.5
+11/29/2020,México,Cybernova,Sector público,16093.67,12100.5
+11/29/2020,Chile,OmegaTech,Sector público,52554.6,45396
+11/29/2020,Chile,Cybernova,Pequeñas y medianas empresas,384634.98,344655
+11/30/2020,Chile,Cybernova,Instituciones educativas,18520.65,14526
+12/01/2020,Argentina,NexTec,Instituciones educativas,30149.42,23103
+12/01/2020,México,NexTec,Consumidores finales,133037.31,120312
+12/01/2020,Uruguay,Cybernova,Sector público,16138.44,9493.2
+12/02/2020,Uruguay,Innovatech,Sector público,110413.8,89154
+12/03/2020,Argentina,Cybernova,Consumidores finales,487034.31,426539.52
+12/03/2020,Chile,Innovatech,Sector público,30814.2,16218
+12/03/2020,México,OmegaTech,Sector público,2986.89,2344.5
+12/03/2020,México,NeuroNet,Sector público,13920.73,9943.38
+12/04/2020,Uruguay,Innovatech,Instituciones educativas,25174.8,18648
+12/04/2020,Uruguay,Cybernova,Sector público,24946.96,20720.07
+12/05/2020,México,OmegaTech,Instituciones educativas,127044.45,84696.3
+12/05/2020,Perú,NexTec,Sector público,3904.2,2169
+12/05/2020,México,OmegaTech,Pequeñas y medianas empresas,552603.87,541768.5
+12/07/2020,Chile,NexTec,Grandes clientes,45778.98,35034.93
+12/09/2020,México,Cybernova,Instituciones educativas,62931.69,47139.84
+12/09/2020,Perú,NexTec,Sector público,59353.29,34913.7
+12/09/2020,Argentina,NexTec,Pequeñas y medianas empresas,950676.21,833926.5
+12/10/2020,México,Innovatech,Sector público,215062.09,179506.08
+12/11/2020,Perú,NexTec,Instituciones educativas,11988,7992
+12/11/2020,Perú,NexTec,Sector público,9565.29,5314.05
+12/13/2020,México,OmegaTech,Pequeñas y medianas empresas,412195.5,361575
+12/13/2020,Argentina,Innovatech,Pequeñas y medianas empresas,2276600.26,1976215.5
+12/13/2020,Argentina,Cybernova,Pequeñas y medianas empresas,1181990.48,1036833.75
+12/14/2020,Chile,NexTec,Sector público,880412.4,667368
+12/14/2020,Uruguay,NeuroNet,Sector público,166490.1,134433
+12/16/2020,Uruguay,Innovatech,Instituciones educativas,31062.42,22509
+12/16/2020,Perú,OmegaTech,Instituciones educativas,30112.41,21820.59
+12/16/2020,Uruguay,Cybernova,Consumidores finales,242513.22,214650
+12/16/2020,Chile,NexTec,Consumidores finales,264131.65,244175.04
+12/16/2020,Chile,Cybernova,Sector público,367479,287352
+12/16/2020,Chile,NexTec,Sector público,15849.88,12173.49
+12/16/2020,Chile,Cybernova,Pequeñas y medianas empresas,62461.8,60525
+12/17/2020,Uruguay,NeuroNet,Pequeñas y medianas empresas,301480.7,270144
+12/18/2020,Perú,OmegaTech,Instituciones educativas,13677.61,9210.51
+12/19/2020,México,NeuroNet,Consumidores finales,272868.75,231660
+12/19/2020,Argentina,Cybernova,Sector público,13199.76,10476
+12/20/2020,Perú,NeuroNet,Consumidores finales,269495.33,238532.04
+12/20/2020,Chile,Cybernova,Sector público,80006.81,59528.88
+12/20/2020,México,NeuroNet,Pequeñas y medianas empresas,1303377.89,1248446.25
+12/21/2020,México,Innovatech,Sector público,6882.41,4001.4
+12/21/2020,Argentina,Cybernova,Grandes clientes,134243.55,117072.86
+12/22/2020,Perú,NeuroNet,Sector público,42407.28,24372
+12/23/2020,Perú,NeuroNet,Sector público,6938.6,5006.21
+12/23/2020,Argentina,NexTec,Pequeñas y medianas empresas,2290560.12,2219535
+12/24/2020,Argentina,Cybernova,Instituciones educativas,28315.58,20974.5
+12/25/2020,Perú,Cybernova,Consumidores finales,365648.8,341820
+12/25/2020,Uruguay,Cybernova,Sector público,29220.31,23990.4
+12/25/2020,Uruguay,NeuroNet,Pequeñas y medianas empresas,644654.7,537212.25
+12/26/2020,Perú,Innovatech,Sector público,549073.35,420498
+12/28/2020,México,Cybernova,Sector público,2257.79,1629
+12/28/2020,Perú,OmegaTech,Sector público,888129.9,673218
+12/28/2020,Argentina,Innovatech,Pequeñas y medianas empresas,557442,516150
+12/29/2020,México,NexTec,Sector público,26479.99,21993.35
+12/30/2020,México,Cybernova,Instituciones educativas,21710.7,16830
+12/30/2020,Argentina,OmegaTech,Grandes clientes,19865.74,15049.8
+12/31/2020,Chile,OmegaTech,Instituciones educativas,26703,20700
+01/01/2021,Perú,Innovatech,Consumidores finales,133016.83,130200
+01/01/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,934065,915750
+01/01/2021,Perú,NexTec,Grandes clientes,96378.48,72283.86
+01/02/2021,Chile,OmegaTech,Sector público,26391,13890
+01/02/2021,Uruguay,NeuroNet,Sector público,995057.84,859518.4
+01/02/2021,Perú,Cybernova,Pequeñas y medianas empresas,1300218.48,1094460
+01/02/2021,México,Cybernova,Grandes clientes,11439.78,9225.63
+01/04/2021,Chile,Cybernova,Sector público,19158.72,14255
+01/04/2021,Argentina,Cybernova,Sector público,1879898.48,1534611
+01/07/2021,Perú,NeuroNet,Sector público,7707.35,5795
+01/08/2021,México,Cybernova,Consumidores finales,273646.15,258720
+01/09/2021,Perú,Innovatech,Consumidores finales,611019.23,393380
+01/09/2021,Perú,NeuroNet,Sector público,26945.6,15310
+01/09/2021,Argentina,NexTec,Grandes clientes,5314,4688.82
+01/10/2021,Perú,NeuroNet,Instituciones educativas,13320,8880
+01/10/2021,México,NeuroNet,Consumidores finales,692977.85,600580.8
+01/10/2021,Perú,Cybernova,Grandes clientes,112864.75,94053.96
+01/11/2021,Uruguay,Innovatech,Instituciones educativas,32558.4,22610
+01/11/2021,Chile,Cybernova,Consumidores finales,959833.77,858690
+01/11/2021,Chile,OmegaTech,Grandes clientes,40661.96,31118.85
+01/12/2021,Argentina,Cybernova,Instituciones educativas,10665,7900
+01/12/2021,Uruguay,NeuroNet,Consumidores finales,143927.88,140880
+01/12/2021,Uruguay,Cybernova,Consumidores finales,926939.42,820440
+01/12/2021,Argentina,Cybernova,Consumidores finales,9231.92,5715
+1/13/2021,México,OmegaTech,Sector público,1326325.77,995222.8
+1/15/2021,Chile,Cybernova,Grandes clientes,33237.6,24928.2
+1/16/2021,Uruguay,NeuroNet,Sector público,79525.91,40164.6
+1/16/2021,Perú,Innovatech,Grandes clientes,26698.8,21078
+1/17/2021,Perú,Cybernova,Consumidores finales,458539.64,389290.8
+1/17/2021,Chile,OmegaTech,Consumidores finales,14632.96,9150
+1/17/2021,México,Cybernova,Grandes clientes,30835.08,24867
+1/18/2021,México,OmegaTech,Sector público,9856.84,7490
+1/18/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,1650664.04,1418096.25
+1/20/2021,México,OmegaTech,Consumidores finales,157569.23,136560
+1/20/2021,Perú,NexTec,Sector público,986811,748020
+1/21/2021,Argentina,OmegaTech,Sector público,239183,189020
+1/22/2021,México,NexTec,Instituciones educativas,8653.5,6410
+1/22/2021,Chile,NeuroNet,Pequeñas y medianas empresas,298662,273500
+1/23/2021,Chile,NexTec,Grandes clientes,36208.62,29200.5
+1/24/2021,Chile,NexTec,Sector público,404176.5,329940
+1/24/2021,Argentina,Innovatech,Sector público,18035.92,14980
+1/25/2021,México,OmegaTech,Instituciones educativas,14610,9740
+1/25/2021,Argentina,NeuroNet,Pequeñas y medianas empresas,2494206,2445300
+1/26/2021,Argentina,Cybernova,Pequeñas y medianas empresas,587598.84,504810
+1/27/2021,México,OmegaTech,Instituciones educativas,18537.81,13886
+1/27/2021,Perú,Cybernova,Sector público,33404.8,25935.4
+1/28/2021,Chile,NexTec,Sector público,90850,45425
+1/28/2021,Uruguay,NexTec,Sector público,72984.91,53196
+1/28/2021,Perú,Cybernova,Grandes clientes,40404.36,30609.36
+1/29/2021,México,Cybernova,Consumidores finales,309220.15,292353.6
+1/30/2021,Argentina,NeuroNet,Sector público,92064,71240
+02/01/2021,Perú,OmegaTech,Instituciones educativas,24576.3,17430
+02/01/2021,México,OmegaTech,Sector público,46796.2,26290
+02/02/2021,Perú,NexTec,Sector público,66039.42,37100.8
+02/04/2021,Perú,NeuroNet,Consumidores finales,17333.08,10730
+02/05/2021,Perú,NeuroNet,Pequeñas y medianas empresas,1466760.96,1273230
+02/06/2021,Chile,OmegaTech,Sector público,60200,52000
+02/06/2021,México,NexTec,Sector público,43261.76,23770.2
+02/07/2021,Uruguay,NexTec,Sector público,2065758.45,1763866
+02/07/2021,Argentina,NexTec,Grandes clientes,79645.2,59733.9
+02/08/2021,Argentina,NexTec,Consumidores finales,1008874.73,953845.2
+02/08/2021,Chile,Cybernova,Sector público,19158.72,14255
+02/08/2021,Argentina,Innovatech,Sector público,3560.97,2735
+02/10/2021,Perú,OmegaTech,Pequeñas y medianas empresas,2108332.8,1792800
+02/11/2021,México,Cybernova,Grandes clientes,150166.84,121102.29
+2/13/2021,Perú,Cybernova,Sector público,16957.4,13458.25
+2/14/2021,México,Innovatech,Sector público,5262.68,3999
+2/16/2021,México,OmegaTech,Pequeñas y medianas empresas,323694,275250
+2/16/2021,México,Cybernova,Grandes clientes,7661.92,6605.1
+2/18/2021,Chile,NexTec,Instituciones educativas,22256.33,16305
+2/19/2021,Uruguay,Cybernova,Consumidores finales,277194.46,240235.2
+2/20/2021,México,Innovatech,Instituciones educativas,24427.92,18506
+2/20/2021,Argentina,Cybernova,Sector público,432356.4,338083.2
+2/21/2021,Perú,NeuroNet,Instituciones educativas,14981.25,11750
+2/21/2021,Chile,NeuroNet,Sector público,222705,183820
+2/22/2021,Argentina,NeuroNet,Instituciones educativas,50163.75,36750
+2/22/2021,Chile,Innovatech,Instituciones educativas,29670,23000
+2/23/2021,Perú,NeuroNet,Sector público,70164.32,54475.4
+2/25/2021,Perú,Cybernova,Pequeñas y medianas empresas,186923.1,171175
+2/27/2021,México,NeuroNet,Consumidores finales,260303.37,218760
+2/28/2021,Chile,OmegaTech,Consumidores finales,92055.29,76590
+2/28/2021,México,NeuroNet,Consumidores finales,254064.62,237507.6
+03/01/2021,Chile,Cybernova,Sector público,28566.72,21255
+03/01/2021,Uruguay,Cybernova,Sector público,1421637,1056073.2
+03/02/2021,Chile,Cybernova,Instituciones educativas,22484.7,17430
+03/02/2021,Perú,Innovatech,Sector público,46852.16,36375.9
+03/03/2021,Chile,OmegaTech,Consumidores finales,74418.75,68040
+03/03/2021,México,NeuroNet,Sector público,10396.54,8635
+03/04/2021,Argentina,Cybernova,Sector público,8031.6,4365
+03/04/2021,Perú,Cybernova,Grandes clientes,5040.96,4248
+03/05/2021,México,Innovatech,Instituciones educativas,28795.95,21570
+03/05/2021,Argentina,Innovatech,Consumidores finales,455377.93,398815.2
+03/05/2021,México,NexTec,Sector público,76603.82,43524.9
+03/06/2021,Perú,Cybernova,Consumidores finales,114349.04,97080
+03/07/2021,Perú,NeuroNet,Sector público,26588.94,18992.1
+03/08/2021,Argentina,Innovatech,Grandes clientes,11560.27,10200.24
+03/09/2021,Perú,NeuroNet,Grandes clientes,17253.6,14220
+03/10/2021,Perú,Innovatech,Pequeñas y medianas empresas,2671600.32,2319097.5
+03/12/2021,Argentina,NexTec,Pequeñas y medianas empresas,2349675.51,2151717.5
+3/13/2021,Perú,NeuroNet,Pequeñas y medianas empresas,62916,53500
+3/13/2021,Chile,NexTec,Grandes clientes,6601.92,5382
+3/14/2021,Chile,NexTec,Consumidores finales,208172.6,199080
+3/14/2021,Uruguay,Cybernova,Sector público,14204.4,10680
+3/14/2021,Perú,Cybernova,Sector público,7690.8,4420
+3/14/2021,Uruguay,NeuroNet,Sector público,112420.8,56210.4
+3/15/2021,Uruguay,OmegaTech,Grandes clientes,20991.6,16065
+3/16/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,431112,390500
+3/18/2021,Argentina,NexTec,Consumidores finales,302965.38,286440
+3/18/2021,Uruguay,Innovatech,Consumidores finales,1040288.48,972494.4
+3/18/2021,Uruguay,Cybernova,Sector público,15774.36,12660
+3/18/2021,Chile,NexTec,Pequeñas y medianas empresas,686952,609000
+3/19/2021,México,NeuroNet,Pequeñas y medianas empresas,86313.6,79920
+3/19/2021,Chile,OmegaTech,Pequeñas y medianas empresas,260257.5,252187.5
+3/19/2021,Argentina,NeuroNet,Grandes clientes,72850.28,56327.54
+3/20/2021,Argentina,Cybernova,Pequeñas y medianas empresas,827604,711000
+3/20/2021,Perú,Cybernova,Grandes clientes,87323.4,65492.55
+3/22/2021,México,Innovatech,Instituciones educativas,37050,24700
+3/23/2021,Argentina,NexTec,Sector público,91238,69160
+3/23/2021,México,OmegaTech,Sector público,47411.4,36026.9
+3/23/2021,Uruguay,NeuroNet,Grandes clientes,24782.96,19162.08
+3/24/2021,Chile,OmegaTech,Grandes clientes,110473.39,88143.66
+3/25/2021,Chile,Innovatech,Grandes clientes,25932.72,20691
+3/26/2021,Perú,Cybernova,Sector público,19144.54,14097.6
+3/26/2021,Perú,Innovatech,Sector público,2769770.01,2121178.8
+3/26/2021,Uruguay,Innovatech,Pequeñas y medianas empresas,230310,213250
+3/27/2021,Perú,NeuroNet,Sector público,15800.07,11879.75
+3/28/2021,Perú,OmegaTech,Grandes clientes,10575.72,9117
+3/29/2021,Argentina,Cybernova,Sector público,116328.74,59351.4
+3/29/2021,Uruguay,NeuroNet,Grandes clientes,14375.76,12537
+3/30/2021,Perú,OmegaTech,Grandes clientes,18478.8,15930
+3/30/2021,Uruguay,NexTec,Grandes clientes,14375.76,12537
+3/31/2021,Argentina,Innovatech,Sector público,303688,256360
+3/31/2021,Argentina,Cybernova,Sector público,14135.62,7682.4
+3/31/2021,Chile,Cybernova,Pequeñas y medianas empresas,545334,468500
+04/01/2021,México,NexTec,Consumidores finales,234634.62,199200
+04/02/2021,Uruguay,Cybernova,Pequeñas y medianas empresas,468072,443250
+04/03/2021,Perú,OmegaTech,Consumidores finales,608581.73,506340
+04/05/2021,Uruguay,NexTec,Consumidores finales,8236.04,5150
+04/05/2021,Perú,OmegaTech,Sector público,15056.72,11690
+04/06/2021,Chile,NeuroNet,Sector público,20148,10074
+04/06/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,708439.5,608625
+04/06/2021,Chile,Cybernova,Pequeñas y medianas empresas,1254535.92,1136355
+04/07/2021,Perú,NexTec,Consumidores finales,30484.62,13210
+04/07/2021,Perú,Innovatech,Pequeñas y medianas empresas,582048,505250
+04/08/2021,Perú,NeuroNet,Sector público,15056.72,11690
+04/10/2021,México,Cybernova,Sector público,72600.31,54586.7
+04/11/2021,Perú,OmegaTech,Consumidores finales,2629073.08,2187388.8
+04/11/2021,Perú,Cybernova,Sector público,13294.82,9790
+04/11/2021,Chile,NeuroNet,Pequeñas y medianas empresas,223996.5,205125
+4/13/2021,México,NexTec,Consumidores finales,157569.23,136560
+4/13/2021,Chile,NexTec,Sector público,11263.84,9040
+4/14/2021,Chile,Cybernova,Instituciones educativas,34983.45,27438
+4/14/2021,Perú,NeuroNet,Sector público,1907193.12,1539969.6
+4/14/2021,México,OmegaTech,Pequeñas y medianas empresas,139230,136500
+4/15/2021,México,Innovatech,Grandes clientes,18972,16740
+4/16/2021,Chile,NexTec,Instituciones educativas,110613.94,81035.85
+4/16/2021,Argentina,Innovatech,Consumidores finales,505541.12,424858.8
+4/16/2021,Chile,Cybernova,Sector público,14497.56,10460
+4/16/2021,Uruguay,Cybernova,Grandes clientes,18519.12,15606
+4/17/2021,Argentina,NeuroNet,Sector público,11312.75,9079.25
+4/17/2021,México,NeuroNet,Grandes clientes,4007.64,3303
+4/18/2021,Perú,Innovatech,Sector público,3408082.3,2583386
+4/18/2021,Uruguay,OmegaTech,Sector público,97503.25,51317.5
+4/19/2021,Argentina,NeuroNet,Sector público,1329836.76,1062235.2
+4/19/2021,México,NeuroNet,Pequeñas y medianas empresas,116640,108000
+4/19/2021,Argentina,NexTec,Pequeñas y medianas empresas,2565050.4,2429025
+4/20/2021,México,Cybernova,Grandes clientes,12802.2,10107
+4/20/2021,México,OmegaTech,Grandes clientes,3085.88,2543.31
+4/21/2021,México,Cybernova,Instituciones educativas,77952.63,54703.6
+4/21/2021,Argentina,Innovatech,Sector público,519027.11,410173.4
+4/22/2021,Uruguay,Cybernova,Consumidores finales,413723.08,358560
+4/23/2021,México,NeuroNet,Consumidores finales,357761.25,303732
+4/23/2021,Argentina,Innovatech,Sector público,46042.36,25298
+4/23/2021,México,OmegaTech,Sector público,145732.16,121638.4
+4/24/2021,Argentina,NeuroNet,Sector público,4539,2670
+4/24/2021,Argentina,NeuroNet,Sector público,57848.14,44913.15
+4/24/2021,Perú,Cybernova,Grandes clientes,28855.56,22311
+4/25/2021,Chile,NeuroNet,Sector público,1566432,1292928
+4/26/2021,Chile,Cybernova,Instituciones educativas,72251.09,49150.4
+4/26/2021,Perú,Cybernova,Sector público,1897343,1499420
+4/26/2021,Uruguay,NexTec,Grandes clientes,31731.48,24039
+4/27/2021,Chile,NexTec,Instituciones educativas,29364.66,21996
+4/27/2021,Uruguay,NexTec,Consumidores finales,489753,420076.8
+4/27/2021,México,Cybernova,Sector público,8139.6,6840
+4/27/2021,Argentina,Cybernova,Sector público,40063.11,31104.9
+4/30/2021,Chile,Cybernova,Sector público,13027.2,7080
+4/30/2021,Chile,NexTec,Pequeñas y medianas empresas,391716,351000
+05/01/2021,México,OmegaTech,Instituciones educativas,159990.01,117208.8
+05/01/2021,Uruguay,NexTec,Consumidores finales,324841.85,314265.6
+05/01/2021,Argentina,NexTec,Sector público,237218.8,179816
+05/02/2021,Uruguay,OmegaTech,Grandes clientes,12406.8,9495
+05/02/2021,Uruguay,Innovatech,Grandes clientes,12794.64,10782
+05/03/2021,Uruguay,Cybernova,Sector público,29785.58,24454.5
+05/03/2021,Argentina,NexTec,Grandes clientes,25692,19269
+05/03/2021,Argentina,NexTec,Grandes clientes,9322.8,8226
+05/04/2021,Perú,NeuroNet,Sector público,1017338,771160
+05/05/2021,Chile,NeuroNet,Instituciones educativas,20423.25,15650
+05/05/2021,Uruguay,OmegaTech,Sector público,29978.55,16117.5
+05/05/2021,Chile,Innovatech,Sector público,44629.82,36225.5
+05/07/2021,Uruguay,Cybernova,Sector público,6711.81,5155
+05/07/2021,Uruguay,Cybernova,Sector público,2964428.78,2224391
+05/11/2021,Uruguay,Cybernova,Consumidores finales,616673.08,397020
+05/11/2021,México,OmegaTech,Sector público,41942.54,34836
+5/13/2021,Uruguay,Cybernova,Consumidores finales,593681.97,509220
+5/14/2021,Chile,NexTec,Consumidores finales,384447.12,319860
+5/14/2021,Perú,NexTec,Sector público,35585.6,19340
+5/16/2021,Chile,Innovatech,Sector público,550663.47,459622.8
+5/17/2021,Argentina,Cybernova,Sector público,884205,729820
+5/17/2021,Uruguay,NexTec,Pequeñas y medianas empresas,313104,296500
+5/18/2021,Perú,Cybernova,Consumidores finales,387643.24,329101.2
+5/19/2021,México,OmegaTech,Consumidores finales,195360.58,189000
+5/20/2021,Perú,OmegaTech,Instituciones educativas,14981.25,11750
+5/21/2021,Chile,NeuroNet,Sector público,404176.5,329940
+5/21/2021,México,Cybernova,Pequeñas y medianas empresas,159570,147750
+5/21/2021,Perú,OmegaTech,Pequeñas y medianas empresas,985849.92,855772.5
+5/22/2021,Argentina,NexTec,Instituciones educativas,28623,20300
+5/23/2021,Uruguay,NexTec,Sector público,123124.56,66196
+5/25/2021,México,Innovatech,Instituciones educativas,5016,3800
+5/25/2021,Uruguay,Cybernova,Pequeñas y medianas empresas,267561,239750
+5/26/2021,Chile,OmegaTech,Sector público,1317498.68,988599.3
+5/26/2021,Argentina,Innovatech,Sector público,449458.24,379412.8
+5/26/2021,México,OmegaTech,Grandes clientes,22948.48,18309.96
+5/27/2021,Argentina,Cybernova,Consumidores finales,75158.65,69480
+5/27/2021,México,NeuroNet,Pequeñas y medianas empresas,1504140,1424375
+5/27/2021,Uruguay,NexTec,Grandes clientes,12794.64,10782
+5/29/2021,Chile,NeuroNet,Instituciones educativas,3139.2,2180
+5/29/2021,México,OmegaTech,Pequeñas y medianas empresas,1359514.8,1156050
+5/30/2021,Chile,OmegaTech,Sector público,1661821.7,1299469.6
+5/31/2021,Uruguay,Cybernova,Sector público,460346.25,359970
+5/31/2021,México,Innovatech,Grandes clientes,26114.4,21060
+06/01/2021,México,NeuroNet,Grandes clientes,27102.1,20741.4
+06/02/2021,Perú,NeuroNet,Instituciones educativas,52734,41360
+06/02/2021,Uruguay,OmegaTech,Sector público,731472,566020
+06/02/2021,Perú,NexTec,Sector público,6756.4,5080
+06/03/2021,Perú,NexTec,Consumidores finales,219649.04,188400
+06/03/2021,Chile,OmegaTech,Sector público,39820.8,20740
+06/03/2021,Chile,Cybernova,Grandes clientes,22271.04,18981
+06/03/2021,Chile,NexTec,Grandes clientes,50626.08,39143.88
+06/04/2021,Uruguay,NexTec,Sector público,33031.6,17570
+06/04/2021,Argentina,Cybernova,Sector público,354277,306020
+06/04/2021,México,NexTec,Sector público,4573.94,3267.1
+06/07/2021,Perú,Cybernova,Consumidores finales,133016.83,130200
+06/09/2021,Argentina,Innovatech,Consumidores finales,132878.94,111672
+06/09/2021,México,NexTec,Sector público,40775.68,23168
+06/09/2021,Perú,NexTec,Grandes clientes,17449.94,15043.05
+06/10/2021,Argentina,NexTec,Sector público,50597,26630
+06/12/2021,Argentina,Cybernova,Consumidores finales,9231.92,5715
+6/14/2021,Perú,Innovatech,Sector público,25174.93,19545.75
+6/14/2021,Argentina,NeuroNet,Pequeñas y medianas empresas,382788,343000
+6/14/2021,Argentina,NeuroNet,Pequeñas y medianas empresas,260580,252500
+6/15/2021,Perú,Cybernova,Consumidores finales,238675.96,204720
+6/16/2021,Chile,NexTec,Consumidores finales,341415,315619.2
+6/17/2021,Perú,OmegaTech,Instituciones educativas,20390.37,14938
+6/17/2021,Perú,NeuroNet,Consumidores finales,543780,471276
+6/18/2021,Argentina,Innovatech,Instituciones educativas,22794.3,17670
+6/18/2021,Uruguay,Innovatech,Sector público,13939.93,10592.65
+6/18/2021,Uruguay,OmegaTech,Pequeñas y medianas empresas,462861,414750
+6/18/2021,Perú,Cybernova,Grandes clientes,27799.2,23166
+6/19/2021,Chile,Cybernova,Sector público,46507.1,25275.6
+6/19/2021,México,Cybernova,Pequeñas y medianas empresas,2294884.8,2078700
+6/20/2021,Uruguay,Cybernova,Consumidores finales,81281.25,79560
+6/21/2021,Argentina,NexTec,Consumidores finales,1222463.81,1117681.2
+6/23/2021,México,NeuroNet,Consumidores finales,179713.56,166135.2
+6/23/2021,Chile,OmegaTech,Sector público,31308.41,24046.4
+6/23/2021,México,OmegaTech,Sector público,9716.08,5520.5
+6/24/2021,Perú,OmegaTech,Instituciones educativas,28299.75,19450
+6/24/2021,México,Innovatech,Sector público,107156,89440
+6/24/2021,Chile,NexTec,Grandes clientes,10569.12,8172
+6/25/2021,Uruguay,Cybernova,Sector público,10420.62,8655
+6/26/2021,Perú,NeuroNet,Pequeñas y medianas empresas,1052565.15,963887.5
+6/27/2021,Uruguay,NexTec,Instituciones educativas,50378.45,35729.4
+6/27/2021,Uruguay,OmegaTech,Sector público,1675070.88,1296185.8
+6/27/2021,Perú,Cybernova,Sector público,27287.26,14514.5
+6/27/2021,Perú,OmegaTech,Grandes clientes,42091.37,36285.66
+6/27/2021,Argentina,NexTec,Grandes clientes,15637.69,13637.52
+6/29/2021,México,NexTec,Consumidores finales,7131.92,4415
+6/30/2021,Uruguay,Cybernova,Consumidores finales,112860,98841.6
+07/02/2021,Uruguay,NeuroNet,Sector público,936138,747760
+07/02/2021,México,NeuroNet,Sector público,15083.25,12675
+07/04/2021,Argentina,NexTec,Consumidores finales,94668.75,79560
+07/04/2021,Uruguay,NeuroNet,Sector público,201285,166140
+07/04/2021,México,OmegaTech,Sector público,19971.6,11220
+07/04/2021,Uruguay,Innovatech,Pequeñas y medianas empresas,879784.2,814615
+07/05/2021,Uruguay,Cybernova,Instituciones educativas,13680.86,9212.7
+07/05/2021,Uruguay,OmegaTech,Sector público,116463.5,84028.5
+07/05/2021,Perú,NeuroNet,Pequeñas y medianas empresas,2662952.16,2580380
+07/07/2021,Chile,OmegaTech,Sector público,7388.85,5675
+07/07/2021,Perú,NexTec,Sector público,13069.89,7103.2
+07/07/2021,Perú,NexTec,Pequeñas y medianas empresas,185351.76,177540
+07/08/2021,Chile,Cybernova,Consumidores finales,385733.65,327480
+07/08/2021,Chile,NeuroNet,Sector público,1054900.67,861143.4
+07/08/2021,Perú,NeuroNet,Grandes clientes,24719.4,19935
+07/09/2021,Perú,Cybernova,Consumidores finales,219649.04,188400
+07/09/2021,Perú,NexTec,Sector público,53257.6,29920
+07/09/2021,Uruguay,Cybernova,Pequeñas y medianas empresas,87906,80500
+07/10/2021,México,NexTec,Instituciones educativas,37080,24720
+07/10/2021,Uruguay,Cybernova,Grandes clientes,25904.34,21829.5
+07/11/2021,México,Innovatech,Sector público,1949582.25,1462890
+7/13/2021,Argentina,NexTec,Instituciones educativas,78702.62,59623.2
+7/13/2021,Argentina,NexTec,Sector público,12793.96,9230.85
+7/13/2021,Uruguay,NexTec,Sector público,28942.46,21761.25
+7/14/2021,México,NeuroNet,Instituciones educativas,29246.4,20310
+7/14/2021,Perú,Cybernova,Grandes clientes,75202.8,56402.1
+7/15/2021,Chile,NeuroNet,Sector público,4301.85,3615
+7/15/2021,Argentina,NeuroNet,Sector público,148815.86,107370.75
+7/17/2021,México,OmegaTech,Sector público,17476.06,14515
+7/19/2021,Chile,NexTec,Sector público,13027.2,7080
+7/21/2021,Perú,OmegaTech,Consumidores finales,406269.23,261560
+7/21/2021,Uruguay,Cybernova,Consumidores finales,5109.54,3195
+7/21/2021,México,Innovatech,Consumidores finales,483767.31,314600
+7/22/2021,Uruguay,OmegaTech,Sector público,10985.77,8347.85
+7/23/2021,Uruguay,Innovatech,Instituciones educativas,34095.6,22960
+7/23/2021,Perú,NeuroNet,Pequeñas y medianas empresas,725907,664750
+7/23/2021,México,NeuroNet,Grandes clientes,21502.64,18536.76
+7/24/2021,Perú,Cybernova,Sector público,11868,6450
+7/25/2021,Argentina,NeuroNet,Sector público,299171.25,255450
+7/25/2021,Chile,NeuroNet,Sector público,210700,182000
+7/25/2021,Argentina,OmegaTech,Sector público,865769.63,756639
+7/26/2021,Argentina,NeuroNet,Grandes clientes,49405.51,38200.14
+7/27/2021,Argentina,NeuroNet,Sector público,2681229.6,2213078.4
+7/27/2021,Chile,Cybernova,Pequeñas y medianas empresas,1612071.24,1509430
+7/28/2021,Argentina,OmegaTech,Grandes clientes,37319.04,27989.28
+7/29/2021,Argentina,Cybernova,Sector público,18721.08,14535
+7/31/2021,México,Innovatech,Instituciones educativas,113456.04,84985.8
+7/31/2021,Chile,OmegaTech,Grandes clientes,25932.72,20691
+08/01/2021,Uruguay,Innovatech,Instituciones educativas,16748.55,12270
+08/03/2021,Chile,NexTec,Pequeñas y medianas empresas,3056936.4,2710050
+08/04/2021,Chile,NexTec,Instituciones educativas,20826,15600
+08/04/2021,Chile,NexTec,Sector público,178549.31,100308.6
+08/04/2021,Uruguay,OmegaTech,Sector público,3792.3,3149.75
+08/04/2021,Perú,OmegaTech,Pequeñas y medianas empresas,407376,353625
+08/04/2021,Argentina,NeuroNet,Pequeñas y medianas empresas,263185.8,255025
+08/05/2021,Argentina,Innovatech,Sector público,34603.84,28410.38
+08/06/2021,Uruguay,OmegaTech,Sector público,3693.76,2720
+08/06/2021,Perú,NeuroNet,Sector público,93767.21,53889.2
+08/07/2021,Chile,NexTec,Grandes clientes,5809.69,4736.16
+08/07/2021,Uruguay,Innovatech,Grandes clientes,10619.55,8949.06
+08/08/2021,México,NexTec,Consumidores finales,115106.25,105240
+08/08/2021,México,Cybernova,Sector público,769814.5,628420
+08/09/2021,México,OmegaTech,Instituciones educativas,8744.25,6550
+08/09/2021,Perú,NexTec,Consumidores finales,335336.54,300000
+08/09/2021,Chile,Innovatech,Sector público,10262.07,8055
+08/09/2021,Argentina,Innovatech,Grandes clientes,24308.16,18603.18
+08/10/2021,Chile,NexTec,Sector público,704329.92,533894.4
+08/10/2021,Chile,OmegaTech,Sector público,896098.28,756446.6
+08/11/2021,México,OmegaTech,Sector público,484060.5,363220
+08/12/2021,Uruguay,NexTec,Sector público,24757,13030
+08/12/2021,México,NeuroNet,Grandes clientes,22302.24,17244
+8/14/2021,Chile,NexTec,Grandes clientes,42997.68,36234
+8/18/2021,Argentina,Cybernova,Consumidores finales,373514.42,330600
+8/19/2021,Uruguay,Cybernova,Consumidores finales,132738.75,122709.6
+8/20/2021,Argentina,NexTec,Instituciones educativas,43162.81,32699.1
+8/21/2021,Argentina,NeuroNet,Instituciones educativas,40887.45,29310
+8/24/2021,México,OmegaTech,Sector público,15928,9050
+8/25/2021,Perú,Innovatech,Grandes clientes,18701.93,14764.68
+8/26/2021,Argentina,NexTec,Grandes clientes,30072.48,26226
+8/28/2021,Perú,NeuroNet,Sector público,1822.59,1315
+8/28/2021,Perú,Cybernova,Sector público,655357.5,512460
+8/28/2021,Perú,NeuroNet,Sector público,1115629.06,910717.6
+8/30/2021,Perú,Cybernova,Instituciones educativas,6273,4920
+8/30/2021,Uruguay,NexTec,Consumidores finales,487952.44,418532.4
+8/31/2021,Argentina,Innovatech,Sector público,16220.16,8448
+09/01/2021,Chile,NexTec,Consumidores finales,248711.54,229920
+09/01/2021,Chile,Cybernova,Consumidores finales,198636.06,189960
+09/01/2021,Uruguay,NexTec,Sector público,16538.55,12435
+09/02/2021,Chile,Cybernova,Pequeñas y medianas empresas,1038082.5,950625
+09/03/2021,México,Cybernova,Pequeñas y medianas empresas,481901.4,446205
+09/03/2021,Chile,Cybernova,Pequeñas y medianas empresas,223861.44,216920
+09/04/2021,Chile,Cybernova,Pequeñas y medianas empresas,1343168.64,1301520
+09/06/2021,Argentina,Innovatech,Sector público,10423.2,6060
+09/07/2021,Perú,Cybernova,Instituciones educativas,9193.5,6810
+09/07/2021,Perú,NexTec,Sector público,135884,109720
+09/07/2021,Uruguay,NeuroNet,Sector público,18236.09,15146.25
+09/08/2021,Perú,NeuroNet,Consumidores finales,120256.73,106440
+09/08/2021,Chile,OmegaTech,Sector público,21732.6,12490
+09/09/2021,Argentina,Cybernova,Grandes clientes,16876.8,13185
+09/09/2021,Chile,OmegaTech,Grandes clientes,29156.16,24849
+09/10/2021,Uruguay,Innovatech,Instituciones educativas,16413.58,12024.6
+09/11/2021,Perú,NexTec,Sector público,640752,495820
+09/12/2021,Perú,OmegaTech,Pequeñas y medianas empresas,1613654.55,1510912.5
+9/13/2021,Chile,Innovatech,Consumidores finales,198636.06,189960
+9/14/2021,Chile,Innovatech,Grandes clientes,40682.9,33902.42
+9/16/2021,México,OmegaTech,Consumidores finales,99633.89,96390
+9/16/2021,México,OmegaTech,Sector público,6172.91,4845.3
+9/16/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,631125,618750
+9/16/2021,Uruguay,Cybernova,Grandes clientes,20759.78,16741.76
+9/17/2021,Argentina,OmegaTech,Pequeñas y medianas empresas,808110,748250
+9/18/2021,Uruguay,Cybernova,Instituciones educativas,16748.55,12270
+9/18/2021,Argentina,OmegaTech,Sector público,50597,26630
+9/19/2021,Uruguay,Innovatech,Instituciones educativas,136382.4,91840
+9/20/2021,Uruguay,NexTec,Sector público,683004,539760
+9/20/2021,Argentina,NexTec,Sector público,405733.44,313960.4
+9/21/2021,México,Cybernova,Pequeñas y medianas empresas,287400,239500
+9/24/2021,Uruguay,Innovatech,Instituciones educativas,29254.5,21670
+9/24/2021,Chile,NeuroNet,Instituciones educativas,184461.84,130824
+9/24/2021,Argentina,OmegaTech,Consumidores finales,261594.17,219844.8
+9/24/2021,Argentina,Cybernova,Sector público,200165,156520
+9/25/2021,Uruguay,Cybernova,Sector público,42433.03,34055.4
+9/25/2021,México,NeuroNet,Pequeñas y medianas empresas,236400,197000
+9/26/2021,Uruguay,NexTec,Consumidores finales,180056.25,154440
+9/26/2021,Argentina,OmegaTech,Sector público,43513.42,22901.8
+9/28/2021,México,NexTec,Sector público,21112.4,11230
+9/28/2021,México,Innovatech,Sector público,131300.4,74602.5
+9/29/2021,Uruguay,Innovatech,Consumidores finales,43823.08,18990
+9/30/2021,Perú,OmegaTech,Instituciones educativas,6127.65,4539
+10/01/2021,Perú,NexTec,Instituciones educativas,8613,6600
+10/01/2021,Argentina,OmegaTech,Grandes clientes,18421.2,16254
+10/02/2021,Chile,NeuroNet,Instituciones educativas,40100.4,28440
+10/02/2021,México,NeuroNet,Consumidores finales,121562.02,113640
+10/03/2021,Chile,NeuroNet,Sector público,32162.13,23205
+10/03/2021,México,Cybernova,Pequeñas y medianas empresas,678960,615000
+10/05/2021,Uruguay,OmegaTech,Consumidores finales,260192.31,216480
+10/05/2021,Chile,Cybernova,Sector público,20794.8,11180
+10/05/2021,Perú,Cybernova,Sector público,7911.54,6210
+10/05/2021,Perú,NeuroNet,Sector público,5646.76,4690
+10/05/2021,Chile,NexTec,Sector público,44729.04,26311.2
+10/06/2021,Perú,NexTec,Consumidores finales,471214.9,421560
+10/07/2021,Uruguay,OmegaTech,Consumidores finales,243731.25,222840
+10/07/2021,Perú,OmegaTech,Consumidores finales,339223.56,332040
+10/07/2021,Argentina,NeuroNet,Sector público,9837.17,7895
+10/07/2021,Chile,OmegaTech,Sector público,87799.7,50459.6
+10/08/2021,Perú,Cybernova,Grandes clientes,16282.3,13721.04
+10/09/2021,Argentina,Cybernova,Sector público,21009,11175
+10/12/2021,Chile,NeuroNet,Grandes clientes,85911.54,67824.9
+10/14/2021,Perú,NeuroNet,Sector público,784531.44,654825.6
+10/15/2021,Uruguay,Innovatech,Sector público,1941439.5,1456780
+10/16/2021,Uruguay,Cybernova,Grandes clientes,19401.66,15646.5
+10/16/2021,Chile,NexTec,Grandes clientes,54575.88,47595.24
+10/17/2021,Argentina,Cybernova,Sector público,24035,12650
+10/18/2021,Perú,Innovatech,Sector público,1017338,771160
+10/19/2021,Argentina,NexTec,Consumidores finales,94668.75,79560
+10/19/2021,Argentina,Innovatech,Consumidores finales,103807.21,87240
+10/19/2021,México,Cybernova,Consumidores finales,204346.15,184800
+10/19/2021,México,NeuroNet,Consumidores finales,71114.42,66480
+10/19/2021,Argentina,NeuroNet,Sector público,388510.08,300632.8
+10/19/2021,Chile,NexTec,Pequeñas y medianas empresas,563304,479000
+10/22/2021,Uruguay,NexTec,Sector público,33191.24,23947.5
+10/23/2021,Perú,Cybernova,Grandes clientes,7310.64,5482.98
+10/25/2021,Perú,OmegaTech,Consumidores finales,279938.94,250440
+10/25/2021,Argentina,OmegaTech,Sector público,597082.5,521820
+10/25/2021,Perú,OmegaTech,Sector público,27669.39,20804.05
+10/27/2021,Uruguay,Innovatech,Instituciones educativas,50349.6,37296
+10/27/2021,México,Innovatech,Sector público,30830.8,16940
+10/27/2021,Perú,NeuroNet,Grandes clientes,32382.41,26114.85
+10/30/2021,Chile,NeuroNet,Consumidores finales,131793.75,110760
+10/30/2021,México,Cybernova,Sector público,626640,484900
+10/30/2021,Uruguay,Cybernova,Sector público,644875,479050
+10/31/2021,México,Innovatech,Instituciones educativas,40769.25,28610
+10/31/2021,Argentina,Innovatech,Sector público,25971.72,21571.2
+10/31/2021,Perú,Innovatech,Grandes clientes,12722.4,10044
+10/31/2021,Chile,NeuroNet,Grandes clientes,25345.32,20889
+11/01/2021,Uruguay,Cybernova,Sector público,44378.4,25215
+11/02/2021,Uruguay,OmegaTech,Consumidores finales,31544.83,19725
+11/03/2021,Uruguay,Cybernova,Consumidores finales,1110576.92,715000
+11/03/2021,Perú,NexTec,Pequeñas y medianas empresas,210627,201750
+11/05/2021,Argentina,NeuroNet,Sector público,18721.08,14535
+11/06/2021,Uruguay,Cybernova,Sector público,683004,539760
+11/08/2021,Perú,NexTec,Consumidores finales,242660.25,217089.6
+11/08/2021,Argentina,Cybernova,Sector público,659613.5,538460
+11/09/2021,Chile,NexTec,Consumidores finales,281066.83,241080
+11/09/2021,Uruguay,NexTec,Consumidores finales,459611.78,386259.6
+11/10/2021,Chile,Innovatech,Sector público,40227.31,31575.6
+11/12/2021,Chile,NexTec,Instituciones educativas,79242.21,60722
+11/13/2021,Uruguay,NexTec,Sector público,35172,19540
+11/14/2021,Chile,OmegaTech,Sector público,326922.75,245310
+11/15/2021,Uruguay,Cybernova,Consumidores finales,754539.92,634118.4
+11/15/2021,Chile,Innovatech,Consumidores finales,1037623.53,880921.2
+11/15/2021,Uruguay,OmegaTech,Sector público,1172166.24,1012502.4
+11/16/2021,Perú,NeuroNet,Sector público,416279.5,339820
+11/16/2021,México,Innovatech,Sector público,1092024.36,881758.8
+11/17/2021,Uruguay,NexTec,Instituciones educativas,36031.5,28260
+11/17/2021,México,NexTec,Consumidores finales,93571.15,79440
+11/18/2021,Perú,NeuroNet,Grandes clientes,44514.29,36687.6
+11/19/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,124992,112000
+11/20/2021,Argentina,NexTec,Sector público,87514.45,47562.2
+11/21/2021,Argentina,NeuroNet,Sector público,83160,70200
+11/21/2021,Chile,OmegaTech,Sector público,2115812.16,1806604.8
+11/21/2021,Uruguay,NeuroNet,Pequeñas y medianas empresas,645300,537750
+11/22/2021,Chile,OmegaTech,Sector público,9931,7710.4
+11/23/2021,Chile,NexTec,Consumidores finales,328283.65,303480
+11/23/2021,Argentina,NexTec,Sector público,3292128,2547480
+11/23/2021,Argentina,Innovatech,Sector público,50760.98,29512.2
+11/23/2021,Perú,NeuroNet,Pequeñas y medianas empresas,76146,64750
+11/24/2021,Uruguay,NexTec,Consumidores finales,277809.23,243302.4
+11/26/2021,Chile,OmegaTech,Sector público,90791.42,47287.2
+11/27/2021,Chile,OmegaTech,Sector público,34356.54,27886.8
+11/28/2021,Uruguay,NexTec,Instituciones educativas,53594.1,38010
+11/28/2021,Chile,NexTec,Consumidores finales,170701.53,163245.6
+11/28/2021,Argentina,OmegaTech,Consumidores finales,1231424.42,1205347.2
+11/28/2021,Argentina,Cybernova,Sector público,45953.4,26410
+11/28/2021,Chile,NexTec,Pequeñas y medianas empresas,1926499.68,1638180
+11/29/2021,Uruguay,NexTec,Sector público,36753.6,19760
+11/29/2021,Uruguay,Cybernova,Grandes clientes,3341.52,2754
+11/30/2021,Argentina,NexTec,Consumidores finales,462456.35,405014.4
+11/30/2021,Chile,Innovatech,Grandes clientes,19338.24,14503.68
+12/02/2021,Perú,NexTec,Sector público,50438.39,27713.4
+12/02/2021,Perú,NeuroNet,Sector público,639472.12,533748.8
+12/03/2021,Argentina,Innovatech,Consumidores finales,47120.19,39600
+12/04/2021,Uruguay,NeuroNet,Sector público,492184,388960
+12/04/2021,Uruguay,NeuroNet,Sector público,578522,499720
+12/05/2021,Uruguay,Innovatech,Sector público,108622.8,54311.4
+12/06/2021,México,OmegaTech,Instituciones educativas,37050,24700
+12/07/2021,México,NexTec,Pequeñas y medianas empresas,700245,641250
+12/07/2021,Uruguay,NexTec,Grandes clientes,46444.54,39138.66
+12/09/2021,Uruguay,Cybernova,Sector público,19627,10330
+12/09/2021,Uruguay,Cybernova,Sector público,4981,2930
+12/10/2021,México,NexTec,Instituciones educativas,70358.71,47379.6
+12/10/2021,México,Innovatech,Sector público,18891.6,10380
+12/10/2021,Argentina,OmegaTech,Pequeñas y medianas empresas,754092.36,675710
+12/11/2021,Argentina,NeuroNet,Consumidores finales,496968.75,435240
+12/14/2021,México,NeuroNet,Sector público,39237,22550
+12/15/2021,México,OmegaTech,Instituciones educativas,29246.4,20310
+12/15/2021,Perú,OmegaTech,Sector público,10291.12,7990
+12/15/2021,México,OmegaTech,Grandes clientes,10733.4,9045
+12/16/2021,Uruguay,NeuroNet,Sector público,205707.48,115566
+12/17/2021,México,NexTec,Instituciones educativas,26133.57,19358.2
+12/17/2021,Argentina,NexTec,Sector público,44654.59,23257.6
+12/17/2021,Chile,NeuroNet,Pequeñas y medianas empresas,657316.62,615465
+12/18/2021,Argentina,NeuroNet,Consumidores finales,35922.72,22462.5
+12/19/2021,Uruguay,NexTec,Sector público,29697,15630
+12/19/2021,Argentina,NexTec,Pequeñas y medianas empresas,922680,873750
+12/19/2021,Chile,Cybernova,Pequeñas y medianas empresas,385968,374000
+12/21/2021,México,Innovatech,Instituciones educativas,141876.99,99562.8
+12/21/2021,México,Innovatech,Sector público,639922.5,559260
+12/21/2021,México,NeuroNet,Sector público,8969.72,6815.9
+12/22/2021,Uruguay,OmegaTech,Sector público,63861.61,51835.73
+12/23/2021,Argentina,Innovatech,Sector público,20275.2,10560
+12/23/2021,Uruguay,Cybernova,Sector público,7040.95,5080.05
+12/25/2021,Perú,NexTec,Instituciones educativas,60073.2,40048.8
+12/25/2021,Chile,OmegaTech,Sector público,3142.72,2440
+12/29/2021,Perú,OmegaTech,Instituciones educativas,11092.95,7470
+12/29/2021,México,Innovatech,Pequeñas y medianas empresas,715036.68,692865
+12/29/2021,Perú,Innovatech,Grandes clientes,9100.08,6894
+12/29/2021,Argentina,Innovatech,Grandes clientes,13429.92,10278
+12/30/2021,Argentina,NeuroNet,Instituciones educativas,30991.8,21980
+12/30/2021,Chile,Cybernova,Sector público,3503.64,2910
+12/30/2021,México,Cybernova,Pequeñas y medianas empresas,678960,615000
+01/02/2022,Uruguay,NeuroNet,Sector público,1215694.48,960731.2
+01/03/2022,Argentina,Cybernova,Sector público,634155.83,547775.8
+01/04/2022,Uruguay,OmegaTech,Pequeñas y medianas empresas,287481.6,257600
+01/06/2022,Perú,NexTec,Instituciones educativas,21573,15300
+01/06/2022,Chile,NeuroNet,Instituciones educativas,172859.68,130954.3
+01/06/2022,Argentina,Cybernova,Sector público,81514.92,43359
+01/06/2022,Perú,NeuroNet,Pequeñas y medianas empresas,230272.56,195810
+01/06/2022,Argentina,Innovatech,Pequeñas y medianas empresas,2328868.8,2156360
+01/07/2022,Argentina,Innovatech,Sector público,2207.8,1695.7
+01/07/2022,México,NeuroNet,Grandes clientes,6305.76,5436
+01/08/2022,Chile,NexTec,Sector público,37646.25,28305.45
+01/09/2022,México,OmegaTech,Sector público,11191.95,8415
+01/10/2022,México,NeuroNet,Sector público,552391,436540
+01/12/2022,Perú,Cybernova,Instituciones educativas,24088.32,18892.8
+01/12/2022,Uruguay,NexTec,Sector público,14714.7,10725
+01/12/2022,Perú,NexTec,Sector público,157163.28,81012
+01/12/2022,México,NeuroNet,Grandes clientes,117177.67,99867.33
+1/13/2022,Argentina,Innovatech,Instituciones educativas,42713.33,31995
+1/13/2022,Uruguay,Cybernova,Consumidores finales,96461.54,84480
+1/13/2022,Chile,NexTec,Pequeñas y medianas empresas,794440.92,727510
+1/15/2022,Argentina,Innovatech,Instituciones educativas,33499.35,25670
+1/15/2022,México,Innovatech,Sector público,8771.14,6665
+1/15/2022,México,OmegaTech,Sector público,107156,89440
+1/15/2022,Uruguay,Cybernova,Sector público,52404.09,27581.1
+1/16/2022,Uruguay,NeuroNet,Instituciones educativas,6762,4900
+1/16/2022,México,NexTec,Sector público,69670.92,37059
+1/17/2022,Perú,NeuroNet,Sector público,3835364.26,2907273.2
+1/19/2022,Uruguay,NeuroNet,Sector público,10420.62,8655
+1/19/2022,México,NeuroNet,Grandes clientes,13055.22,11254.5
+1/20/2022,Perú,Cybernova,Sector público,18818.8,10010
+1/20/2022,México,NexTec,Sector público,21700.8,12330
+1/23/2022,Argentina,Innovatech,Sector público,239183,189020
+1/23/2022,Perú,NeuroNet,Pequeñas y medianas empresas,582048,505250
+1/23/2022,México,NexTec,Pequeñas y medianas empresas,2789743.32,2499770
+1/24/2022,Chile,NexTec,Consumidores finales,41930.77,18170
+1/26/2022,México,Cybernova,Sector público,698593.28,589721.6
+1/28/2022,Uruguay,NexTec,Consumidores finales,96461.54,84480
+1/29/2022,México,Cybernova,Instituciones educativas,40767.87,31603
+1/29/2022,Chile,NeuroNet,Consumidores finales,10602.9,6630
+1/30/2022,México,Cybernova,Instituciones educativas,21801.6,15140
+1/30/2022,Chile,NeuroNet,Sector público,2837688,2195830
+1/31/2022,Chile,NexTec,Sector público,38821.06,21098.4
+1/31/2022,Perú,NeuroNet,Sector público,1248710.54,1078620.4
+1/31/2022,Chile,NexTec,Grandes clientes,116953.69,98556.48
+02/01/2022,Perú,NexTec,Instituciones educativas,29123.55,20655
+02/02/2022,Chile,Cybernova,Pequeñas y medianas empresas,310840.38,267045
+02/03/2022,Chile,Innovatech,Consumidores finales,608410.38,595526.4
+02/03/2022,Perú,NeuroNet,Sector público,360899,311740
+02/03/2022,México,OmegaTech,Sector público,1732777.2,1462734
+02/03/2022,Uruguay,Cybernova,Pequeñas y medianas empresas,230310,213250
+02/05/2022,Perú,Cybernova,Consumidores finales,1100296.18,943759.2
+02/05/2022,Argentina,OmegaTech,Sector público,68631.62,50023.05
+02/07/2022,México,NexTec,Sector público,110840.04,61577.8
+02/09/2022,Perú,OmegaTech,Sector público,134741.73,75697.6
+02/09/2022,Perú,OmegaTech,Pequeñas y medianas empresas,535332.33,459907.5
+02/10/2022,Perú,NexTec,Instituciones educativas,10637.55,7091.7
+02/11/2022,Uruguay,Innovatech,Sector público,191383.92,154533.6
+2/13/2022,Chile,Cybernova,Sector público,1275982.89,1089509.2
+2/13/2022,Chile,Cybernova,Pequeñas y medianas empresas,474858,425500
+2/14/2022,Perú,NexTec,Instituciones educativas,8822.05,6838.8
+2/15/2022,Uruguay,OmegaTech,Sector público,14147.1,10417.6
+2/15/2022,Argentina,Cybernova,Grandes clientes,21359.52,17604
+2/17/2022,Argentina,NeuroNet,Sector público,26430.6,14210
+2/18/2022,Argentina,OmegaTech,Sector público,92064,71240
+2/18/2022,Chile,OmegaTech,Sector público,10298.82,7910
+2/19/2022,México,NexTec,Instituciones educativas,69111.07,47993.8
+2/19/2022,México,NexTec,Consumidores finales,196599.58,177794.4
+2/19/2022,Perú,NexTec,Consumidores finales,13617.69,8430
+2/20/2022,Chile,NexTec,Instituciones educativas,89489.11,69371.4
+2/20/2022,Perú,Cybernova,Consumidores finales,215256.06,184632
+2/20/2022,Uruguay,Cybernova,Grandes clientes,7317.93,6031.26
+2/21/2022,Argentina,OmegaTech,Sector público,24225.6,12360
+2/23/2022,México,NeuroNet,Sector público,43665.47,36267
+2/24/2022,México,Innovatech,Sector público,4472,2600
+2/25/2022,Uruguay,NeuroNet,Consumidores finales,267705.87,262036.8
+2/25/2022,Chile,Cybernova,Sector público,5217.03,4095
+2/26/2022,Perú,OmegaTech,Sector público,4338,2410
+2/27/2022,Chile,NexTec,Consumidores finales,41930.77,18170
+2/27/2022,Chile,Cybernova,Grandes clientes,30216,22662
+03/01/2022,Argentina,Cybernova,Pequeñas y medianas empresas,683397,575250
+03/02/2022,Chile,NexTec,Sector público,176612.4,88306.2
+03/03/2022,México,Cybernova,Instituciones educativas,26486.4,19840
+03/03/2022,México,Innovatech,Sector público,2322918.68,2030113.8
+03/04/2022,Perú,NeuroNet,Sector público,121763.97,64086.3
+03/05/2022,Argentina,NeuroNet,Sector público,12205.41,9177
+03/07/2022,Chile,OmegaTech,Sector público,152027.13,85408.5
+03/07/2022,Perú,OmegaTech,Sector público,88381.57,50216.8
+03/08/2022,Chile,Innovatech,Sector público,16121.4,8310
+03/08/2022,México,Cybernova,Sector público,50520.2,27161.4
+03/08/2022,Perú,NexTec,Grandes clientes,5040.96,4248
+03/09/2022,México,NeuroNet,Sector público,2750907.18,2173969.2
+03/10/2022,Perú,Cybernova,Sector público,448875,351000
+03/12/2022,Argentina,Cybernova,Consumidores finales,409961.54,359040
+3/13/2022,Argentina,OmegaTech,Sector público,430452.75,351390
+3/13/2022,Perú,NeuroNet,Sector público,52300.16,28424
+3/14/2022,Perú,Cybernova,Consumidores finales,114349.04,97080
+3/14/2022,Chile,NexTec,Sector público,801444,684320
+3/14/2022,Perú,Cybernova,Pequeñas y medianas empresas,91182,83500
+3/15/2022,Perú,NexTec,Sector público,16012.67,12039.6
+3/15/2022,Chile,NexTec,Sector público,236766.6,185140.8
+3/16/2022,México,NeuroNet,Consumidores finales,51202.38,47865.6
+3/17/2022,Argentina,NexTec,Instituciones educativas,49584.77,35166.5
+3/17/2022,Chile,Innovatech,Consumidores finales,362149.04,354480
+3/18/2022,Argentina,NexTec,Sector público,23588.8,12820
+3/19/2022,Perú,NeuroNet,Sector público,238609,199160
+3/20/2022,Argentina,OmegaTech,Instituciones educativas,29104.2,20424
+3/21/2022,México,OmegaTech,Sector público,438564,354120
+3/21/2022,Argentina,Cybernova,Pequeñas y medianas empresas,282435,247750
+3/22/2022,México,NexTec,Pequeñas y medianas empresas,313500,275000
+3/22/2022,Perú,NeuroNet,Pequeñas y medianas empresas,356250,312500
+3/23/2022,Argentina,NeuroNet,Instituciones educativas,9225,6150
+3/24/2022,Chile,Cybernova,Consumidores finales,540027.12,458472
+3/24/2022,Argentina,NexTec,Consumidores finales,921436.69,842456.4
+3/25/2022,Chile,Cybernova,Grandes clientes,39926.22,33645.69
+3/26/2022,Uruguay,Cybernova,Consumidores finales,183947.6,171960
+3/27/2022,Uruguay,Cybernova,Instituciones educativas,78408,52272
+3/27/2022,Perú,Cybernova,Sector público,6203.01,5152
+3/28/2022,Perú,OmegaTech,Grandes clientes,89622.18,77260.5
+3/30/2022,Chile,NeuroNet,Pequeñas y medianas empresas,233091,218250
+3/30/2022,Uruguay,OmegaTech,Grandes clientes,53597.38,41018.4
+3/31/2022,México,Cybernova,Sector público,196479.36,165859.2
+04/01/2022,México,OmegaTech,Instituciones educativas,23083.8,15389.2
+04/01/2022,Perú,OmegaTech,Grandes clientes,41900.4,31425.3
+04/05/2022,Argentina,NeuroNet,Consumidores finales,427393.13,374306.4
+04/06/2022,Argentina,Cybernova,Sector público,608501.6,475820.8
+04/06/2022,Perú,OmegaTech,Pequeñas y medianas empresas,508032,432000
+04/07/2022,Chile,Cybernova,Instituciones educativas,34736.1,23630
+04/08/2022,Uruguay,NeuroNet,Instituciones educativas,29254.5,21670
+04/08/2022,Perú,Innovatech,Pequeñas y medianas empresas,62916,53500
+04/08/2022,Uruguay,Cybernova,Pequeñas y medianas empresas,875294.64,828877.5
+04/09/2022,Argentina,Cybernova,Sector público,18082.26,12915.9
+04/09/2022,Argentina,Cybernova,Sector público,52877,27830
+04/09/2022,Argentina,Cybernova,Sector público,2015987.4,1663989.6
+04/10/2022,Argentina,NeuroNet,Sector público,4366.32,3390
+04/10/2022,Chile,OmegaTech,Grandes clientes,15229.2,11655
+04/11/2022,Perú,OmegaTech,Grandes clientes,18540,13905
+04/12/2022,Argentina,Innovatech,Sector público,3790.5,2850
+04/12/2022,Argentina,Cybernova,Sector público,87783.7,44787.6
+4/13/2022,Uruguay,OmegaTech,Sector público,2647798.79,2161468.4
+4/14/2022,Argentina,NexTec,Consumidores finales,117973.56,103320
+4/15/2022,Chile,Innovatech,Sector público,32183.72,16938.8
+4/15/2022,Chile,OmegaTech,Pequeñas y medianas empresas,69402,67250
+4/16/2022,Uruguay,Innovatech,Consumidores finales,861585.58,560300
+4/16/2022,Chile,Innovatech,Sector público,69144.42,36391.8
+4/16/2022,México,Cybernova,Sector público,54115.4,43431.3
+4/17/2022,Perú,Innovatech,Grandes clientes,9609.6,7920
+4/19/2022,Perú,Innovatech,Sector público,108706.5,92820
+4/19/2022,Chile,OmegaTech,Sector público,120606.87,63477.3
+4/20/2022,Perú,OmegaTech,Instituciones educativas,9811.8,7110
+4/20/2022,Chile,NeuroNet,Instituciones educativas,11772,8175
+4/20/2022,México,NexTec,Sector público,10396.54,8635
+4/20/2022,Uruguay,Cybernova,Sector público,4981,2930
+4/20/2022,México,OmegaTech,Sector público,474976.6,415105.6
+4/21/2022,Perú,OmegaTech,Sector público,53257.6,29920
+4/21/2022,Chile,NexTec,Sector público,14713.5,8655
+4/22/2022,Argentina,Cybernova,Instituciones educativas,14203.73,9863.7
+4/22/2022,Chile,NeuroNet,Sector público,706387.5,524745
+4/22/2022,Argentina,OmegaTech,Pequeñas y medianas empresas,2771817.3,2566497.5
+4/23/2022,Uruguay,Cybernova,Instituciones educativas,52167.38,39975
+4/23/2022,México,OmegaTech,Consumidores finales,709061.54,614520
+4/23/2022,Chile,Innovatech,Sector público,655551.75,547170
+4/23/2022,Uruguay,Cybernova,Sector público,741157.46,579551.7
+4/24/2022,Uruguay,Cybernova,Instituciones educativas,4766.85,3210
+4/24/2022,Uruguay,NeuroNet,Instituciones educativas,18663.12,13524
+4/26/2022,Chile,NeuroNet,Instituciones educativas,17604.9,12620
+4/26/2022,México,NeuroNet,Sector público,15837.41,13308.75
+4/27/2022,México,Cybernova,Instituciones educativas,28795.95,21570
+4/27/2022,Uruguay,OmegaTech,Sector público,30001,15790
+4/27/2022,México,Innovatech,Sector público,44358.8,25790
+4/28/2022,Uruguay,NeuroNet,Pequeñas y medianas empresas,537085.08,456705
+4/28/2022,Perú,Cybernova,Grandes clientes,73581.68,56893.05
+4/30/2022,Chile,NexTec,Sector público,15620.85,11745
+05/01/2022,Chile,Cybernova,Sector público,7388.85,5675
+05/02/2022,Uruguay,NexTec,Pequeñas y medianas empresas,291186.72,275745
+05/03/2022,Argentina,NexTec,Instituciones educativas,16257.3,11530
+05/03/2022,México,Cybernova,Sector público,272888,230360
+05/04/2022,Perú,OmegaTech,Sector público,3828826.68,2902317.6
+05/05/2022,México,Innovatech,Sector público,438564,354120
+05/07/2022,Argentina,Innovatech,Instituciones educativas,16257.3,11530
+05/07/2022,México,NeuroNet,Consumidores finales,238072.15,225086.4
+05/07/2022,Uruguay,OmegaTech,Sector público,385581,333060
+05/09/2022,México,NexTec,Instituciones educativas,21801.6,15140
+05/11/2022,Argentina,Cybernova,Sector público,23282.91,16630.65
+5/13/2022,Chile,NexTec,Consumidores finales,806661.79,691899.6
+5/13/2022,Chile,Cybernova,Pequeñas y medianas empresas,588984,533500
+5/13/2022,Chile,Innovatech,Grandes clientes,38021.4,31684.5
+5/14/2022,México,NeuroNet,Consumidores finales,601300.77,505335.6
+5/14/2022,México,Cybernova,Sector público,1339477.23,1093450.8
+5/14/2022,Chile,NeuroNet,Sector público,2323,1952.1
+5/14/2022,Chile,Cybernova,Pequeñas y medianas empresas,364722,341500
+5/16/2022,México,Cybernova,Sector público,11327.4,6090
+5/16/2022,Argentina,NexTec,Sector público,53632.82,28227.8
+5/16/2022,Chile,Cybernova,Pequeñas y medianas empresas,3396851.64,3110670
+5/17/2022,Perú,NexTec,Instituciones educativas,9732.69,7458
+5/17/2022,Chile,Cybernova,Sector público,670477.5,579150
+5/17/2022,Perú,OmegaTech,Pequeñas y medianas empresas,750537,702750
+5/19/2022,Argentina,NeuroNet,Sector público,573205.5,457860
+5/19/2022,México,OmegaTech,Grandes clientes,4007.64,3303
+5/20/2022,Uruguay,NeuroNet,Instituciones educativas,121712.1,85412
+5/20/2022,Uruguay,Innovatech,Instituciones educativas,104731.11,77578.6
+5/23/2022,Uruguay,OmegaTech,Sector público,9231.74,7015
+5/24/2022,Chile,NeuroNet,Sector público,50803.2,26460
+5/25/2022,Uruguay,NeuroNet,Sector público,39049.92,21456
+5/26/2022,México,NeuroNet,Sector público,44721.6,36300
+5/28/2022,Perú,NexTec,Instituciones educativas,13815,9210
+5/28/2022,México,Innovatech,Consumidores finales,739423.13,676044
+5/28/2022,Chile,Cybernova,Sector público,3658602.64,2773284.8
+5/28/2022,Uruguay,Cybernova,Grandes clientes,88521.39,74596.68
+5/29/2022,México,Cybernova,Instituciones educativas,108560.73,81318.9
+5/29/2022,Uruguay,Cybernova,Sector público,7247.1,5950
+5/30/2022,Perú,Innovatech,Instituciones educativas,28299.75,19450
+5/30/2022,Perú,Cybernova,Consumidores finales,1040627.19,892579.2
+5/30/2022,Argentina,NexTec,Sector público,4539,2670
+5/30/2022,Argentina,Cybernova,Pequeñas y medianas empresas,655578,635250
+5/31/2022,México,NexTec,Instituciones educativas,33001.2,22000.8
+06/01/2022,México,NeuroNet,Pequeñas y medianas empresas,236215.98,198835
+06/02/2022,Uruguay,NeuroNet,Instituciones educativas,37335,26200
+06/02/2022,Chile,NexTec,Instituciones educativas,22484.7,17430
+06/02/2022,Chile,NeuroNet,Instituciones educativas,81080.3,62130.5
+06/02/2022,Argentina,NeuroNet,Sector público,53808,28320
+06/02/2022,Uruguay,Cybernova,Pequeñas y medianas empresas,931003.47,834232.5
+06/03/2022,Chile,Cybernova,Grandes clientes,20687.16,17433
+06/04/2022,Chile,Cybernova,Sector público,281053.5,239980
+06/05/2022,Chile,NeuroNet,Sector público,597408,462280
+06/05/2022,México,NeuroNet,Sector público,301027.86,230536.8
+06/07/2022,Argentina,NexTec,Consumidores finales,367106.25,335640
+06/07/2022,Uruguay,Innovatech,Pequeñas y medianas empresas,344322,305250
+06/08/2022,Perú,NexTec,Sector público,1282854.3,972426
+06/08/2022,México,Innovatech,Sector público,61969.91,34049.4
+06/09/2022,Perú,NeuroNet,Sector público,27968,15200
+06/11/2022,Perú,Cybernova,Sector público,8107.96,6295
+06/11/2022,Uruguay,Cybernova,Sector público,22954.39,17630.1
+06/12/2022,México,NexTec,Instituciones educativas,3344.25,2450
+06/12/2022,México,NexTec,Grandes clientes,12747.84,9756
+6/13/2022,Argentina,NeuroNet,Instituciones educativas,159019.09,116497.5
+6/13/2022,México,NexTec,Pequeñas y medianas empresas,766413,686750
+6/13/2022,Uruguay,Cybernova,Grandes clientes,25542,22275
+6/14/2022,México,OmegaTech,Sector público,322420,254800
+6/15/2022,Chile,NexTec,Sector público,42613.2,23940
+6/15/2022,Uruguay,OmegaTech,Sector público,21076.44,17107.5
+6/15/2022,Argentina,OmegaTech,Pequeñas y medianas empresas,805194,745550
+6/16/2022,Uruguay,OmegaTech,Instituciones educativas,27972,20720
+6/17/2022,Uruguay,OmegaTech,Sector público,530621,433160
+6/18/2022,México,OmegaTech,Grandes clientes,5961.24,5139
+6/19/2022,Perú,OmegaTech,Instituciones educativas,19517.7,15130
+6/20/2022,Uruguay,NexTec,Sector público,100989.5,51004.8
+6/20/2022,México,Cybernova,Grandes clientes,8113.32,6543
+6/21/2022,Perú,NeuroNet,Sector público,691012,557960
+6/21/2022,México,Innovatech,Sector público,30184,17150
+6/22/2022,Chile,Cybernova,Sector público,775789,606632
+6/23/2022,Chile,OmegaTech,Consumidores finales,559322.99,479749.2
+6/23/2022,México,Cybernova,Sector público,14732.68,12380.4
+6/24/2022,México,NeuroNet,Consumidores finales,148707.69,128880
+6/24/2022,Uruguay,Cybernova,Sector público,7247.1,5950
+6/25/2022,México,NexTec,Sector público,36702,20390
+6/25/2022,México,OmegaTech,Sector público,583580.2,461188
+6/26/2022,Perú,NeuroNet,Sector público,43643,22970
+6/26/2022,México,Innovatech,Sector público,102625.6,58310
+6/30/2022,México,NeuroNet,Consumidores finales,44264.42,40920
+07/02/2022,Perú,Innovatech,Instituciones educativas,101596.1,69825.5
+07/02/2022,México,NexTec,Consumidores finales,398650.15,345496.8
+07/02/2022,México,Innovatech,Sector público,9702.78,4950.4
+07/02/2022,Chile,OmegaTech,Sector público,9457.73,7264
+07/03/2022,Argentina,OmegaTech,Grandes clientes,43005.36,32579.82
+07/04/2022,Argentina,NexTec,Sector público,1207.37,969
+07/04/2022,Argentina,NeuroNet,Sector público,694077.3,592644
+07/05/2022,Uruguay,Cybernova,Consumidores finales,112374.52,94440
+07/05/2022,Chile,OmegaTech,Consumidores finales,1121816.19,962217.6
+07/05/2022,Argentina,NexTec,Pequeñas y medianas empresas,509691,466750
+07/07/2022,Uruguay,Cybernova,Sector público,104379.86,55521.2
+07/08/2022,Argentina,Innovatech,Sector público,23588.8,12820
+07/09/2022,Argentina,Innovatech,Sector público,8760.47,7192.5
+07/10/2022,Chile,Innovatech,Pequeñas y medianas empresas,563304,479000
+07/11/2022,México,NeuroNet,Pequeñas y medianas empresas,567600,537500
+07/12/2022,Chile,Cybernova,Sector público,39255.9,22823.2
+7/13/2022,Uruguay,NexTec,Sector público,490952,414440
+7/13/2022,México,OmegaTech,Sector público,848172.5,741260
+7/14/2022,Argentina,Innovatech,Sector público,15474.55,11635
+7/14/2022,México,Cybernova,Sector público,55071.2,29930
+7/14/2022,México,Cybernova,Pequeñas y medianas empresas,1356528,1130440
+7/15/2022,Chile,NeuroNet,Consumidores finales,696634.62,448500
+7/18/2022,Chile,Cybernova,Sector público,978236,741520
+7/18/2022,Uruguay,NexTec,Sector público,1406988.24,1111905.6
+7/18/2022,Chile,NexTec,Sector público,36720.12,29470.4
+7/18/2022,Uruguay,NexTec,Grandes clientes,13369.46,11659.41
+7/20/2022,Chile,Innovatech,Instituciones educativas,32280,21520
+7/21/2022,México,Cybernova,Sector público,272888,230360
+7/21/2022,Uruguay,NexTec,Sector público,80543.88,44746.6
+7/23/2022,México,NexTec,Grandes clientes,26515.51,20292.48
+7/23/2022,México,OmegaTech,Grandes clientes,53667,45225
+7/24/2022,Perú,Innovatech,Sector público,10936.8,5880
+7/25/2022,Argentina,OmegaTech,Sector público,13809.18,10065
+7/25/2022,Perú,Cybernova,Grandes clientes,25932,19449
+7/26/2022,Chile,NexTec,Consumidores finales,499497.92,442108.8
+7/26/2022,Chile,NexTec,Pequeñas y medianas empresas,298662,273500
+7/27/2022,Argentina,NexTec,Instituciones educativas,139966.47,99267
+7/28/2022,Argentina,NexTec,Consumidores finales,367106.25,335640
+7/28/2022,Argentina,Cybernova,Sector público,1730.54,1315
+7/30/2022,Uruguay,Cybernova,Instituciones educativas,32670,21780
+7/30/2022,Chile,Innovatech,Consumidores finales,389326.67,372321.6
+7/31/2022,Perú,NexTec,Consumidores finales,406269.23,261560
+08/01/2022,Uruguay,OmegaTech,Sector público,35182.71,25623.83
+08/02/2022,México,OmegaTech,Grandes clientes,7749.28,5866.79
+08/02/2022,Chile,OmegaTech,Grandes clientes,296735.28,267970.8
+08/04/2022,Chile,Cybernova,Sector público,632907.45,558347.4
+08/05/2022,Uruguay,Cybernova,Instituciones educativas,29329.55,22260.33
+08/05/2022,Uruguay,Cybernova,Sector público,53370.58,39906.72
+08/06/2022,México,NexTec,Consumidores finales,32680.65,18125.8
+08/06/2022,México,Cybernova,Sector público,34325.36,27942.89
+08/06/2022,México,Cybernova,Sector público,139701.38,118513.2
+08/06/2022,México,NeuroNet,Grandes clientes,664238.4,518843
+08/07/2022,Argentina,OmegaTech,Consumidores finales,683567.5,512583.5
+08/08/2022,Uruguay,Cybernova,Instituciones educativas,43215.41,30612.7
+08/08/2022,Uruguay,NexTec,Pequeñas y medianas empresas,27530.03,23081.18
+08/09/2022,Argentina,Innovatech,Sector público,13485.74,10747.08
+08/09/2022,Uruguay,OmegaTech,Grandes clientes,26866.04,22351.23
+08/11/2022,México,NexTec,Sector público,47041.1,26980.05
+08/11/2022,México,OmegaTech,Sector público,33437.52,21105.75
+08/11/2022,México,OmegaTech,Sector público,1177211.54,765050
+08/12/2022,México,NexTec,Consumidores finales,223264.62,215872.5
+08/12/2022,Uruguay,Cybernova,Pequeñas y medianas empresas,19844.34,15552.45
+08/12/2022,Uruguay,Cybernova,Grandes clientes,723984.24,577543.2
+8/13/2022,Chile,OmegaTech,Sector público,257219.87,232285.87
+8/14/2022,Argentina,NeuroNet,Grandes clientes,699190.31,576152.2
+8/15/2022,Uruguay,NeuroNet,Instituciones educativas,297930.84,257955.6
+8/15/2022,Perú,OmegaTech,Instituciones educativas,487188.49,413297.77
+8/15/2022,Argentina,OmegaTech,Sector público,42640.95,33785.89
+8/16/2022,México,Cybernova,Sector público,83996.74,64972.54
+8/16/2022,Argentina,Cybernova,Sector público,37282.32,20907.8
+8/17/2022,Perú,NeuroNet,Sector público,346538.12,262481.7
+8/17/2022,Argentina,NeuroNet,Grandes clientes,799812.32,678506.69
+8/18/2022,Uruguay,NexTec,Pequeñas y medianas empresas,1099880.94,942585.68
+8/19/2022,Uruguay,Innovatech,Instituciones educativas,1242496.21,1083377.57
+8/19/2022,México,NexTec,Consumidores finales,441256.27,363607.4
+8/20/2022,Chile,Cybernova,Pequeñas y medianas empresas,1157545.82,943481.92
+8/21/2022,Chile,Innovatech,Pequeñas y medianas empresas,38193.39,30238.2
+8/22/2022,Argentina,NeuroNet,Sector público,99185.42,85000.8
+8/23/2022,México,Cybernova,Pequeñas y medianas empresas,47185.15,39255.73
+8/24/2022,Argentina,NeuroNet,Sector público,132491.52,119840
+8/26/2022,Chile,Cybernova,Sector público,92765.31,50891.55
+8/28/2022,Perú,Innovatech,Sector público,88149.6,75114
+8/29/2022,Uruguay,Cybernova,Instituciones educativas,2242760.89,1933067.14
+8/29/2022,Argentina,Innovatech,Instituciones educativas,684018,575392.5
+8/29/2022,Uruguay,Cybernova,Sector público,10526.85,8250.13
+8/29/2022,México,Cybernova,Sector público,347980.67,324723.6
+8/30/2022,Uruguay,NexTec,Consumidores finales,3489655.68,2725803.6
+8/30/2022,Chile,Cybernova,Sector público,53806.64,31578.05
+8/31/2022,Perú,NexTec,Consumidores finales,80714.76,69282.5
+09/02/2022,Perú,OmegaTech,Instituciones educativas,294477.78,260333.57
+09/02/2022,Argentina,Cybernova,Pequeñas y medianas empresas,96238.91,50597.3
+09/05/2022,Uruguay,Cybernova,Consumidores finales,36417.93,29838.88
+09/05/2022,Perú,OmegaTech,Pequeñas y medianas empresas,56809.75,40670.7
+09/06/2022,Argentina,NeuroNet,Instituciones educativas,180943.62,174672.79
+09/07/2022,Argentina,NexTec,Pequeñas y medianas empresas,1305309.89,1289721.5
+09/08/2022,México,NexTec,Pequeñas y medianas empresas,48710.6,28258.7
+09/09/2022,Chile,NeuroNet,Instituciones educativas,2042089.66,1752852.6
+09/09/2022,Uruguay,NeuroNet,Instituciones educativas,38958.82,21143.2
+09/09/2022,Uruguay,OmegaTech,Pequeñas y medianas empresas,3542.01,2946.78
+09/10/2022,Argentina,Innovatech,Consumidores finales,490203.73,433365.41
+09/11/2022,México,OmegaTech,Sector público,20498.53,15518.94
+09/11/2022,Perú,NexTec,Sector público,53464.69,29653.34
+09/12/2022,Argentina,Cybernova,Sector público,677840.45,571111.22
+09/12/2022,México,OmegaTech,Grandes clientes,49947.4,42372
+9/13/2022,Perú,NexTec,Consumidores finales,521715.04,416187.2
+9/13/2022,Chile,OmegaTech,Consumidores finales,613233.32,534700.4
+9/13/2022,Argentina,NexTec,Sector público,115140.17,58113.2
+9/14/2022,Argentina,OmegaTech,Instituciones educativas,39273,26429
+9/16/2022,Chile,OmegaTech,Consumidores finales,742259.7,686137.5
+9/16/2022,Uruguay,NeuroNet,Consumidores finales,49231.22,41878.37
+9/16/2022,Perú,NexTec,Consumidores finales,20804.62,11053.1
+9/17/2022,Perú,Cybernova,Sector público,5279.86,3135.1
+9/18/2022,Uruguay,Cybernova,Sector público,74580.23,50696.17
+9/18/2022,Perú,Innovatech,Pequeñas y medianas empresas,20025.1,11106.6
+9/19/2022,Perú,Cybernova,Pequeñas y medianas empresas,799337.9,723009.7
+9/19/2022,Argentina,NexTec,Pequeñas y medianas empresas,526786.88,465706.8
+9/20/2022,Chile,NexTec,Sector público,41591.22,24128.5
+9/20/2022,Uruguay,NexTec,Sector público,31001.18,21731.7
+9/22/2022,Argentina,NexTec,Grandes clientes,10908.59,8549.3
+9/23/2022,Argentina,OmegaTech,Consumidores finales,11377.4,9678.15
+9/23/2022,Perú,NeuroNet,Sector público,218049.93,123655.62
+9/25/2022,Chile,Cybernova,Grandes clientes,27701.58,20713.27
+9/28/2022,Argentina,NeuroNet,Instituciones educativas,47333.87,24885.63
+9/28/2022,Chile,NeuroNet,Sector público,696755.62,658547.55
+9/29/2022,Perú,NexTec,Consumidores finales,38078.08,24034.88
+9/29/2022,México,Cybernova,Grandes clientes,31478.82,16724.1
+10/01/2022,Argentina,NexTec,Sector público,978040.8,934912.5
+10/02/2022,Chile,Innovatech,Sector público,409126.08,400180
+10/02/2022,Chile,NeuroNet,Sector público,150389.61,106532.2
+10/02/2022,Uruguay,OmegaTech,Pequeñas y medianas empresas,678317.85,598408.2
+10/03/2022,Uruguay,Cybernova,Consumidores finales,9507.91,7293.01
+10/04/2022,Uruguay,Cybernova,Consumidores finales,67693.31,55464.23
+10/04/2022,Argentina,Cybernova,Sector público,21491.71,11299.2
+10/04/2022,Chile,NeuroNet,Grandes clientes,7463.41,5435.65
+10/05/2022,Chile,NeuroNet,Instituciones educativas,63677.59,42852.22
+10/05/2022,Uruguay,OmegaTech,Sector público,3331.28,2610.8
+10/07/2022,Argentina,Cybernova,Instituciones educativas,11758.53,7992.9
+10/08/2022,Perú,NexTec,Sector público,757938.88,741365.55
+10/08/2022,Argentina,Innovatech,Sector público,9646.08,7376.58
+10/08/2022,Uruguay,NexTec,Grandes clientes,14235.72,10997.46
+10/09/2022,Perú,Innovatech,Instituciones educativas,32851.31,23518.6
+10/12/2022,Chile,NexTec,Instituciones educativas,3713.86,3113.7
+10/12/2022,Chile,OmegaTech,Consumidores finales,719697.6,658050
+10/12/2022,Perú,Cybernova,Sector público,1288636.15,1027982.38
+10/12/2022,Argentina,NexTec,Sector público,672205.18,586120.11
+10/12/2022,México,Cybernova,Pequeñas y medianas empresas,304730.5,275632
+10/12/2022,Argentina,NexTec,Pequeñas y medianas empresas,22867.38,16371
+10/13/2022,Argentina,OmegaTech,Sector público,183231.26,140121.1
+10/13/2022,Chile,Innovatech,Pequeñas y medianas empresas,86405.82,46394.13
+10/13/2022,Uruguay,Innovatech,Grandes clientes,244088.91,209516.7
+10/14/2022,Uruguay,Cybernova,Sector público,2468600.93,2307305.2
+10/15/2022,México,NeuroNet,Instituciones educativas,2340.27,1814.4
+10/15/2022,Argentina,NeuroNet,Sector público,6684.11,5816.52
+10/16/2022,Perú,Cybernova,Consumidores finales,39905.02,30286.83
+10/16/2022,Perú,NeuroNet,Pequeñas y medianas empresas,11863.47,9004.05
+10/17/2022,Argentina,NexTec,Consumidores finales,585534.46,467097.8
+10/18/2022,Argentina,Cybernova,Grandes clientes,25533.62,20215.3
+10/19/2022,Argentina,Innovatech,Sector público,15597.58,11475.75
+10/19/2022,México,OmegaTech,Sector público,166593.08,86682.84
+10/21/2022,México,OmegaTech,Sector público,124208.33,106858.04
+10/21/2022,México,Innovatech,Sector público,45276.12,34234.65
+10/21/2022,Chile,Innovatech,Grandes clientes,102249.23,90393.6
+10/22/2022,Uruguay,NexTec,Instituciones educativas,842107.38,778435.7
+10/22/2022,Argentina,NexTec,Consumidores finales,35509.31,27466.9
+10/22/2022,Uruguay,NeuroNet,Consumidores finales,9297.41,7131.55
+10/23/2022,Uruguay,NeuroNet,Sector público,113585.36,95700.8
+10/23/2022,Perú,NeuroNet,Pequeñas y medianas empresas,55548.34,29511.78
+10/24/2022,Chile,OmegaTech,Consumidores finales,7167.72,5243
+10/24/2022,México,NexTec,Consumidores finales,73851.18,39653.13
+10/24/2022,Chile,OmegaTech,Sector público,4065486.12,3110782.32
+10/24/2022,Uruguay,OmegaTech,Pequeñas y medianas empresas,11045.86,9260.85
+10/24/2022,Perú,Innovatech,Grandes clientes,13838.53,12042.32
+10/25/2022,Uruguay,Cybernova,Consumidores finales,19947.93,10710.7
+10/25/2022,Chile,NexTec,Grandes clientes,23002.85,13193.1
+10/28/2022,Argentina,NeuroNet,Consumidores finales,253533.98,202251.4
+10/28/2022,México,NeuroNet,Consumidores finales,616970.88,540617.5
+10/28/2022,Chile,NeuroNet,Grandes clientes,2957127.92,2674753.9
+10/28/2022,Argentina,OmegaTech,Grandes clientes,44446.62,19441.9
+10/29/2022,Perú,OmegaTech,Instituciones educativas,740508.88,631002.11
+10/30/2022,Perú,Cybernova,Sector público,102249.23,90393.6
+10/31/2022,México,Cybernova,Consumidores finales,43213.94,33815.21
+10/31/2022,Perú,NexTec,Consumidores finales,11239.07,7094.1
+10/31/2022,Chile,Cybernova,Pequeñas y medianas empresas,23109.7,16199.8
+11/01/2022,Perú,Cybernova,Grandes clientes,3007949.28,2349538.1
+11/02/2022,Perú,NeuroNet,Pequeñas y medianas empresas,41150.32,22575.29
+11/05/2022,Perú,Innovatech,Sector público,1323633.17,1154123.83
+11/05/2022,Perú,NexTec,Sector público,123970.91,105455.43
+11/06/2022,México,OmegaTech,Sector público,30870.96,22100.85
+11/07/2022,Perú,NexTec,Sector público,329490.8,285738.15
+11/07/2022,Chile,Cybernova,Grandes clientes,644915.01,637213.25
+11/08/2022,Chile,NexTec,Consumidores finales,382552.94,333561.8
+11/08/2022,Perú,Cybernova,Sector público,1836743.83,1565125.38
+11/08/2022,Argentina,Innovatech,Grandes clientes,244128.6,228177.5
+11/09/2022,Perú,Innovatech,Grandes clientes,1166313.95,1009822.34
+11/10/2022,Argentina,Innovatech,Instituciones educativas,72749.52,53524.66
+11/13/2022,Argentina,Cybernova,Instituciones educativas,117490.44,65888.25
+11/13/2022,Argentina,NeuroNet,Instituciones educativas,142826.23,80996.43
+11/15/2022,Chile,OmegaTech,Sector público,567452.27,492101.03
+11/16/2022,Chile,Innovatech,Instituciones educativas,11275.8,7588.12
+11/16/2022,Argentina,Cybernova,Consumidores finales,202866.96,165350.95
+11/16/2022,Perú,OmegaTech,Sector público,1352541.86,1165774.84
+11/16/2022,Perú,Innovatech,Pequeñas y medianas empresas,503349.48,455285
+11/16/2022,Perú,Cybernova,Pequeñas y medianas empresas,9351.38,7317.52
+11/17/2022,Argentina,OmegaTech,Pequeñas y medianas empresas,14995.93,11146.83
+11/17/2022,Uruguay,Innovatech,Pequeñas y medianas empresas,22641.09,18836.28
+11/18/2022,México,NeuroNet,Sector público,28016.44,15204.7
+11/18/2022,Perú,OmegaTech,Sector público,97587.84,76226.8
+11/19/2022,Perú,NexTec,Sector público,10916.75,8463.7
+11/19/2022,Chile,Innovatech,Pequeñas y medianas empresas,73257.74,51353.37
+11/19/2022,México,NexTec,Pequeñas y medianas empresas,208395.55,190240.01
+11/20/2022,Uruguay,OmegaTech,Consumidores finales,14434.75,9020.1
+11/20/2022,México,Cybernova,Sector público,94858.45,74227.4
+11/21/2022,México,Cybernova,Instituciones educativas,228171.42,197556.24
+11/21/2022,Uruguay,NeuroNet,Grandes clientes,7757,6453.45
+11/22/2022,Perú,Innovatech,Sector público,25679.14,13225.2
+11/23/2022,Argentina,Cybernova,Sector público,46285.4,38805.69
+11/23/2022,Perú,NeuroNet,Pequeñas y medianas empresas,4740.32,2782
+11/24/2022,Chile,NeuroNet,Instituciones educativas,283768.22,280379.38
+11/25/2022,Chile,Cybernova,Sector público,5530.05,4381.65
+11/25/2022,Perú,NexTec,Grandes clientes,4598.28,2578.7
+11/26/2022,Argentina,NexTec,Sector público,44446.62,19441.9
+11/26/2022,Perú,NexTec,Sector público,32028.96,24248.34
+11/27/2022,Chile,Innovatech,Sector público,724400.82,615517.5
+11/27/2022,Chile,Innovatech,Pequeñas y medianas empresas,187209.14,94487.63
+11/27/2022,Chile,Cybernova,Pequeñas y medianas empresas,28075.58,21228.8
+11/28/2022,Argentina,NeuroNet,Pequeñas y medianas empresas,2462293.8,2172221.77
+11/29/2022,México,Cybernova,Sector público,129069.81,68572.34
+11/29/2022,Chile,OmegaTech,Sector público,12937.73,9819.39
+11/29/2022,Chile,Cybernova,Pequeñas y medianas empresas,161148.76,91387.1
+11/30/2022,Chile,Cybernova,Instituciones educativas,93684.46,53731.98
+12/01/2022,Argentina,NexTec,Instituciones educativas,17088.68,8891.7
+12/01/2022,México,NexTec,Consumidores finales,53551.42,29062.7
+12/01/2022,Uruguay,Cybernova,Sector público,5343.42,4545.36
+12/02/2022,Uruguay,Innovatech,Sector público,2915961.61,2326147.04
+12/03/2022,Argentina,Cybernova,Consumidores finales,475807.5,375570
+12/03/2022,Chile,Innovatech,Sector público,434559.23,384172.8
+12/03/2022,México,OmegaTech,Sector público,456279.92,375987.3
+12/03/2022,México,NeuroNet,Sector público,55438.17,30413.68
+12/04/2022,Uruguay,Innovatech,Instituciones educativas,121209.98,103875.6
+12/04/2022,Uruguay,Cybernova,Sector público,849530.64,732222.4
+12/05/2022,México,OmegaTech,Instituciones educativas,96652.92,89345
+12/05/2022,Perú,NexTec,Sector público,16973.43,12882.37
+12/05/2022,México,OmegaTech,Pequeñas y medianas empresas,250972.6,198100.66
+12/07/2022,Chile,NexTec,Grandes clientes,54274.53,51216.19
+12/09/2022,México,Cybernova,Instituciones educativas,52559.85,37628.16
+12/09/2022,Perú,NexTec,Sector público,383877.98,379293.6
+12/09/2022,Argentina,NexTec,Pequeñas y medianas empresas,25004.13,13717.4
+12/10/2022,México,Innovatech,Sector público,252925.54,213101.2
+12/11/2022,Perú,NexTec,Instituciones educativas,30850.45,21853.68
+12/11/2022,Perú,NexTec,Sector público,464877.84,378908.4
+12/13/2022,México,OmegaTech,Pequeñas y medianas empresas,299381.1,265092.5
+12/13/2022,Argentina,Innovatech,Pequeñas y medianas empresas,332310,294250
+12/13/2022,Argentina,Cybernova,Pequeñas y medianas empresas,377625,334375
+12/14/2022,Chile,NexTec,Sector público,9778.5,6580.5
+12/14/2022,Uruguay,NeuroNet,Sector público,572428.74,490565.04
+12/16/2022,Uruguay,Innovatech,Instituciones educativas,976722.89,901428.35
+12/16/2022,Perú,OmegaTech,Instituciones educativas,42321.79,36000.89
+12/16/2022,Uruguay,Cybernova,Consumidores finales,194984.45,183997.2
+12/16/2022,Chile,NexTec,Consumidores finales,83112.48,55931.04
+12/16/2022,Chile,Cybernova,Sector público,6575.19,5512.64
+12/16/2022,Chile,NexTec,Sector público,94999.51,82668.74
+12/16/2022,Chile,Cybernova,Pequeñas y medianas empresas,247076.46,233527.5
+12/17/2022,Uruguay,NeuroNet,Pequeñas y medianas empresas,56813.22,43889.69
+12/18/2022,Perú,OmegaTech,Instituciones educativas,208268.12,177469.34
+12/19/2022,México,NeuroNet,Consumidores finales,24468.83,16466.44
+12/19/2022,Argentina,Cybernova,Sector público,44414.42,33625.07
+12/20/2022,Perú,NeuroNet,Consumidores finales,453036.71,400507.85
+12/20/2022,Chile,Cybernova,Sector público,645011.7,509128.26
+12/20/2022,México,NeuroNet,Pequeñas y medianas empresas,538513.92,462240
+12/21/2022,México,Innovatech,Sector público,36820.27,25284.1
+12/21/2022,Argentina,Cybernova,Grandes clientes,31009.77,23186.9
+12/22/2022,Perú,NeuroNet,Sector público,66690.96,57245
+12/23/2022,Perú,NeuroNet,Sector público,927812.32,886898.93
+12/23/2022,Argentina,NexTec,Pequeñas y medianas empresas,19167.2,13820.01
+12/24/2022,Argentina,Cybernova,Instituciones educativas,56049.62,29778.1
+12/25/2022,Perú,Cybernova,Consumidores finales,2136946.64,1780468.87
+12/25/2022,Uruguay,Cybernova,Sector público,4628.3,3627.3
+12/25/2022,Uruguay,NeuroNet,Pequeñas y medianas empresas,16142.95,12470.85
+12/26/2022,Perú,Innovatech,Sector público,19652.4,14878.35
+12/28/2022,México,Cybernova,Sector público,4017.93,3049.5
+12/28/2022,Perú,OmegaTech,Sector público,93050.72,47922.73
+12/28/2022,Argentina,Innovatech,Pequeñas y medianas empresas,2806666.72,2312771.19
+12/29/2022,México,NexTec,Sector público,125051.97,110552.4
+12/30/2022,México,Cybernova,Instituciones educativas,34114.74,18124.52
+12/30/2022,Argentina,OmegaTech,Grandes clientes,73566.12,71957.5
+12/31/2022,Chile,OmegaTech,Instituciones educativas,913280.71,599521
